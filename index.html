@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartGearPick — Technology Reviews You Can Trust | Buying Guides & Comparisons</title>
+  <meta name="description" content="Independent research, detailed comparisons, and practical buying guides to help you choose the right laptops, smartphones, audio, gaming gear, and tech accessories.">
+  <meta name="keywords" content="tech reviews, best laptops 2026, tech buying guides, audio comparisons, gaming gear, student tech, back to school tech">
+  <link rel="canonical" href="https://smartgearpick.com/">
+  
+  <!-- Open Graph / Social Meta -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://smartgearpick.com/">
+  <meta property="og:title" content="SmartGearPick — Technology Reviews You Can Trust">
+  <meta property="og:description" content="Independent research, detailed comparisons, and practical buying guides to help you choose the right technology.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&auto=format&fit=crop&q=80">
+  
+  <!-- Stylesheets -->
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+  <link rel="alternate icon" href="assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" href="assets/icons/favicon.svg">
+  <link rel="stylesheet" href="assets/css/style.css">
+  
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "SmartGearPick",
+    "url": "https://smartgearpick.com/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://smartgearpick.com/?s={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+<body>
+
+  <!-- FTC Affiliate Disclosure Banner -->
+  <div class="affiliate-disclosure-banner">
+    <div class="container">
+      SmartGearPick is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. <a href="privacy-policy.html#affiliate-disclosure">Learn more</a>.
+    </div>
+  </div>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand-logo" aria-label="SmartGearPick Home">
+        <span class="brand-icon">⚡</span>
+        <span>Smart<span class="brand-highlight">Gear</span>Pick</span>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="main-nav" aria-label="Primary Navigation">
+        <a href="index.html" class="nav-link active">Home</a>
+        <a href="categories/smartphones.html" class="nav-link">Smartphones</a>
+        <a href="categories/laptops.html" class="nav-link">Laptops</a>
+        <a href="categories/gaming.html" class="nav-link">Gaming</a>
+        <a href="categories/audio.html" class="nav-link">Audio</a>
+        <a href="categories/smart-home.html" class="nav-link">Smart Home</a>
+        <a href="guides/index.html" class="nav-link">Guides</a>
+        <a href="reviews/index.html" class="nav-link">Reviews</a>
+        <a href="about.html" class="nav-link">About</a>
+      </nav>
+
+      <!-- Header Action Controls -->
+      <div class="header-actions">
+        <button id="search-toggle-btn" class="icon-btn" aria-label="Search articles" title="Search guides & reviews">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+        <button id="theme-toggle-btn" class="icon-btn" aria-label="Toggle dark mode" title="Toggle theme">
+          <span id="theme-icon">🌙</span>
+        </button>
+        <button id="mobile-menu-toggle" class="icon-btn mobile-menu-btn" aria-label="Open mobile menu" aria-expanded="false">
+          ☰
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Navigation Drawer -->
+  <div id="mobile-nav-drawer" class="mobile-nav-drawer" aria-label="Mobile Navigation Menu">
+    <ul class="mobile-nav-list">
+      <li><a href="index.html" class="mobile-nav-link">Home</a></li>
+      <li><a href="categories/smartphones.html" class="mobile-nav-link">Smartphones</a></li>
+      <li><a href="categories/laptops.html" class="mobile-nav-link">Laptops</a></li>
+      <li><a href="categories/gaming.html" class="mobile-nav-link">Gaming</a></li>
+      <li><a href="categories/audio.html" class="mobile-nav-link">Audio</a></li>
+      <li><a href="categories/smart-home.html" class="mobile-nav-link">Smart Home</a></li>
+      <li><a href="categories/accessories.html" class="mobile-nav-link">Accessories</a></li>
+      <li><a href="guides/index.html" class="mobile-nav-link">Buying Guides</a></li>
+      <li><a href="reviews/index.html" class="mobile-nav-link">Reviews Hub</a></li>
+      <li><a href="comparisons/index.html" class="mobile-nav-link">Comparisons Hub</a></li>
+      <li><a href="hubs/back-to-school-tech.html" class="mobile-nav-link">Back-to-School Tech Hub</a></li>
+      <li><a href="about.html" class="mobile-nav-link">About & Methodology</a></li>
+    </ul>
+  </div>
+
+  <!-- Search Modal Overlay -->
+  <div id="search-modal" class="search-modal-backdrop" aria-hidden="true" role="dialog">
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="site-global-search" class="search-modal-input" placeholder="Search guides, laptops, earbuds, power banks..." autocomplete="off">
+        <button id="search-modal-close" class="search-modal-close" aria-label="Close search">✕</button>
+      </div>
+      <div id="search-results-container" style="padding: 1rem 1.25rem; max-height: 350px; overflow-y: auto; font-size: 0.9rem; color: var(--text-secondary);">
+        <p style="margin: 0; color: var(--text-muted);">Type keywords to filter topics across SmartGearPick.</p>
+      </div>
+    </div>
+  </div>
+
+  <main class="main-content">
+    
+    <!-- 2. Homepage Hero Section (55% Content / 45% Visual) -->
+    <section class="home-hero">
+      <div class="container">
+        <div class="home-hero-grid">
+          
+          <!-- Left Content Column -->
+          <div class="hero-text-col">
+            <span class="hero-eyebrow">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+              </svg>
+              SMARTER TECH DECISIONS
+            </span>
+            <h1 class="hero-h1">Technology Reviews You Can Trust</h1>
+            <p class="hero-desc">
+              Independent research, detailed comparisons, and practical buying guides to help you choose the right technology.
+            </p>
+            
+            <div class="hero-cta-group">
+              <a href="guides/index.html" class="btn-primary">Explore Buying Guides →</a>
+              <a href="reviews/index.html" class="btn-secondary">Browse Reviews</a>
+            </div>
+
+            <!-- 4 Trust Indicators -->
+            <div class="hero-trust-grid">
+              <div class="trust-item">
+                <span class="trust-item-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                  </svg>
+                </span>
+                <span>Research & Analysis</span>
+              </div>
+              <div class="trust-item">
+                <span class="trust-item-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                  </svg>
+                </span>
+                <span>Honest Pros & Cons</span>
+              </div>
+              <div class="trust-item">
+                <span class="trust-item-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                  </svg>
+                </span>
+                <span>Product Comparisons</span>
+              </div>
+              <div class="trust-item">
+                <span class="trust-item-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                  </svg>
+                </span>
+                <span>Transparent Recommendations</span>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Right Visual Column -->
+          <div class="hero-visual-col">
+            <div class="hero-showcase-card">
+              <div class="hero-showcase-img">
+                <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80" alt="Apple MacBook Air M5 workstation" loading="eager">
+                <span class="hero-showcase-overlay-badge">FEATURED REVIEW</span>
+              </div>
+              <div class="hero-showcase-body">
+                <div class="card-badges">
+                  <span class="badge-type badge-review">Featured Review</span>
+                  <span class="badge-category">Laptops</span>
+                </div>
+                <h2 class="hero-showcase-title">
+                  <a href="reviews/apple-macbook-air-m5-review.html">Apple MacBook Air M5 Review — Worth $1,099?</a>
+                </h2>
+                <div class="hero-showcase-meta">
+                  <span>SmartGearPick Editorial Team</span>
+                  <span>•</span>
+                  <span>8 min read</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. Featured Content (1 Large Left / 3 Compact Right) -->
+    <section id="featured-reviews" class="featured-section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span class="section-title-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+            </span>
+            <span>Featured Analysis & Comparisons</span>
+          </h2>
+          <a href="guides/index.html" class="section-link">View all guides →</a>
+        </div>
+
+        <div class="featured-grid">
+          
+          <!-- Large Lead Article Card -->
+          <article class="featured-main-card">
+            <div class="featured-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=900&auto=format&fit=crop&q=80" alt="Apple MacBook Air M5" loading="lazy">
+            </div>
+            <div class="featured-body">
+              <div class="card-badges">
+                <span class="badge-type badge-review">Review</span>
+                <span class="badge-category">Laptops</span>
+              </div>
+              <h3 class="featured-title">
+                <a href="reviews/apple-macbook-air-m5-review.html">Apple MacBook Air M5 Review — Worth $1,099?</a>
+              </h3>
+              <p class="featured-excerpt">
+                We analyze the latest M5 silicon, thermal efficiency under sustained workload, single-core benchmark metrics, and whether it justifies the upgrade over previous M-series models.
+              </p>
+              <div class="featured-meta">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>•</span>
+                <span>Updated 2026</span>
+                <span>•</span>
+                <span>8 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- 3 Compact Featured Stories -->
+          <div class="featured-stack">
+            
+            <article class="mini-card">
+              <div class="mini-card-thumb">
+                <img src="https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300&auto=format&fit=crop&q=80" alt="Sony WF-1000XM6 Wireless Earbuds" loading="lazy">
+              </div>
+              <div class="mini-card-body">
+                <div class="card-badges">
+                  <span class="badge-type badge-comparison">Comparison</span>
+                  <span class="badge-category">Audio</span>
+                </div>
+                <h4 class="mini-card-title">
+                  <a href="comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html">Sony WF-1000XM6 vs AirPods Pro 3 — Which to Buy?</a>
+                </h4>
+                <div class="card-footer" style="padding-top: 0.25rem; border: none;">
+                  <span>SmartGearPick Editorial Team • 6 min read</span>
+                </div>
+              </div>
+            </article>
+
+            <article class="mini-card">
+              <div class="mini-card-thumb">
+                <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300&auto=format&fit=crop&q=80" alt="Mechanical Keyboard with RGB lighting" loading="lazy">
+              </div>
+              <div class="mini-card-body">
+                <div class="card-badges">
+                  <span class="badge-type badge-guide">Buying Guide</span>
+                  <span class="badge-category">Gaming</span>
+                </div>
+                <h4 class="mini-card-title">
+                  <a href="guides/best-mechanical-keyboards.html">Best Mechanical Keyboards 2026 — Gaming & Typing</a>
+                </h4>
+                <div class="card-footer" style="padding-top: 0.25rem; border: none;">
+                  <span>SmartGearPick Editorial Team • 7 min read</span>
+                </div>
+              </div>
+            </article>
+
+            <article class="mini-card">
+              <div class="mini-card-thumb">
+                <img src="https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&auto=format&fit=crop&q=80" alt="Student tablet with stylus" loading="lazy">
+              </div>
+              <div class="mini-card-body">
+                <div class="card-badges">
+                  <span class="badge-type badge-guide">Buying Guide</span>
+                  <span class="badge-category">Smartphones & Mobile</span>
+                </div>
+                <h4 class="mini-card-title">
+                  <a href="guides/best-tablets-for-students.html">Best Tablets for Students 2026 — Top 5 Picks</a>
+                </h4>
+                <div class="card-footer" style="padding-top: 0.25rem; border: none;">
+                  <span>SmartGearPick Editorial Team • 6 min read</span>
+                </div>
+              </div>
+            </article>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Browse By Category (Clean Minimal SVG Icons) -->
+    <section class="categories-section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span class="section-title-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="3" width="7" height="7"></rect>
+                <rect x="14" y="3" width="7" height="7"></rect>
+                <rect x="14" y="14" width="7" height="7"></rect>
+                <rect x="3" y="14" width="7" height="7"></rect>
+              </svg>
+            </span>
+            <span>Browse By Category</span>
+          </h2>
+        </div>
+
+        <div class="categories-grid">
+          
+          <a href="categories/laptops.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                <line x1="2" y1="20" x2="22" y2="20"></line>
+              </svg>
+            </div>
+            <span class="category-name">Laptops</span>
+          </a>
+
+          <a href="categories/smartphones.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
+                <line x1="12" y1="18" x2="12.01" y2="18"></line>
+              </svg>
+            </div>
+            <span class="category-name">Smartphones</span>
+          </a>
+
+          <a href="categories/audio.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M3 18v-6a9 9 0 0 1 18 0v6"></path>
+                <path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>
+              </svg>
+            </div>
+            <span class="category-name">Audio</span>
+          </a>
+
+          <a href="categories/gaming.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="6" y1="12" x2="10" y2="12"></line>
+                <line x1="8" y1="10" x2="8" y2="14"></line>
+                <line x1="15" y1="13" x2="15.01" y2="13"></line>
+                <line x1="18" y1="11" x2="18.01" y2="11"></line>
+                <rect x="2" y="6" width="20" height="12" rx="2"></rect>
+              </svg>
+            </div>
+            <span class="category-name">Gaming</span>
+          </a>
+
+          <a href="categories/smart-home.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+              </svg>
+            </div>
+            <span class="category-name">Smart Home</span>
+          </a>
+
+          <a href="categories/accessories.html" class="category-tile">
+            <div class="category-icon-svg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+              </svg>
+            </div>
+            <span class="category-name">Accessories</span>
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- 7. Latest Buying Guides (4 per row on Desktop) -->
+    <section class="guides-section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span class="section-title-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+              </svg>
+            </span>
+            <span>Latest Buying Guides</span>
+          </h2>
+          <a href="guides/index.html" class="section-link">View all guides →</a>
+        </div>
+
+        <div class="articles-grid-4">
+          
+          <!-- Guide 1 -->
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80" alt="Budget modern laptop on workspace" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Laptops</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-laptops-under-1000.html">Best Laptops Under $1,000 in 2026 — Top 5 Picks</a>
+              </h3>
+              <p class="card-excerpt">
+                Top performance picks balancing battery life, high-refresh OLED displays, and build quality under the \$1,000 threshold.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>7 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Guide 2 -->
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=80" alt="Students collaborating with laptops" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Laptops</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-laptops-for-students.html">Best Laptops for Students 2026 — Back to School</a>
+              </h3>
+              <p class="card-excerpt">
+                Lightweight, all-day battery machines designed for college note-taking, STEM workloads, and high portability.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>8 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Guide 3 -->
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&auto=format&fit=crop&q=80" alt="Ergonomic aluminum laptop stand" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Accessories</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-laptop-stands.html">Best Laptop Stands 2026 — Ergonomics & Airflow</a>
+              </h3>
+              <p class="card-excerpt">
+                Adjustable and portable stands designed to relieve neck strain and improve laptop thermal heat dissipation.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>5 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Guide 4 -->
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&auto=format&fit=crop&q=80" alt="Student tablet with stylus" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Smartphones & Mobile</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-tablets-for-students.html">Best Tablets for Students 2026 — Top 5 Picks</a>
+              </h3>
+              <p class="card-excerpt">
+                Top picks evaluated for stylus handwriting precision, low digitizer latency, and split-screen multitasking.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>6 min read</span>
+              </div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. Back-to-School Tech Topic Cluster Hub Banner -->
+    <section class="hub-banner-section">
+      <div class="container">
+        <div class="hub-banner">
+          <div class="hub-banner-content">
+            <span class="hub-banner-badge">Featured Topic Cluster Hub</span>
+            <h2 class="hub-banner-title">Back-to-School Tech 2026</h2>
+            <p class="hub-banner-desc">
+              Get ready for the academic year with our unified guide covering student laptops, note-taking tablets, charging gear, and study desk essentials.
+            </p>
+            <a href="hubs/back-to-school-tech.html" class="btn-white">
+              Explore the Back-to-School Hub →
+            </a>
+            
+            <div class="hub-quick-links">
+              <a href="guides/best-laptops-for-students.html" class="hub-pill-link">Student Laptops</a>
+              <a href="guides/best-tablets-for-students.html" class="hub-pill-link">Student Tablets</a>
+              <a href="guides/back-to-school-checklist.html" class="hub-pill-link">Tech Checklist</a>
+              <a href="guides/best-laptop-stands.html" class="hub-pill-link">Laptop Stands</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9. Redesigned Shop Our Top Picks (Major Affiliate Area - 4 Cards per row) -->
+    <section class="top-picks-section">
+      <div class="container">
+        <div class="top-picks-header">
+          <h2 class="top-picks-title">Shop Our Top Picks</h2>
+          <p class="top-picks-subtitle">
+            Carefully researched technology recommendations based on specifications, expert analysis, and available benchmark data.
+          </p>
+        </div>
+
+        <div class="picks-grid-4">
+          
+          <!-- Pick 1: Laptop -->
+          <div class="pick-card">
+            <span class="pick-tag">Top Laptop Pick</span>
+            <div class="pick-img">
+              <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&auto=format&fit=crop&q=80" alt="Apple MacBook Air M5" loading="lazy">
+            </div>
+            <div class="pick-category-label">Laptops</div>
+            <h3 class="pick-name">Apple MacBook Air M5</h3>
+            <p class="pick-reason">Best overall ultraportable with 18-hour battery life and silent fanless performance.</p>
+            <a href="https://www.amazon.com/s?k=Apple+MacBook+Air+M5&tag=smartgearpi0a-20" 
+               class="btn-amazon" 
+               target="_blank" 
+               rel="sponsored nofollow noopener" 
+               data-product="apple-macbook-air-m5" 
+               data-location="homepage" 
+               data-category="laptops">
+              <span>🛒</span> Check Price on Amazon
+            </a>
+          </div>
+
+          <!-- Pick 2: Audio -->
+          <div class="pick-card">
+            <span class="pick-tag">Top Audio Pick</span>
+            <div class="pick-img">
+              <img src="https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&auto=format&fit=crop&q=80" alt="Sony WF-1000XM6" loading="lazy">
+            </div>
+            <div class="pick-category-label">Audio</div>
+            <h3 class="pick-name">Sony WF-1000XM6</h3>
+            <p class="pick-reason">Class-leading noise cancellation, LDAC high-res audio, and 8-hour single-charge endurance.</p>
+            <a href="https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=smartgearpi0a-20" 
+               class="btn-amazon" 
+               target="_blank" 
+               rel="sponsored nofollow noopener" 
+               data-product="sony-wf-1000xm6" 
+               data-location="homepage" 
+               data-category="audio">
+              <span>🛒</span> Check Price on Amazon
+            </a>
+          </div>
+
+          <!-- Pick 3: Charging -->
+          <div class="pick-card">
+            <span class="pick-tag">Top Charging Pick</span>
+            <div class="pick-img">
+              <img src="https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400&auto=format&fit=crop&q=80" alt="Anker Prime Power Bank" loading="lazy">
+            </div>
+            <div class="pick-category-label">Accessories</div>
+            <h3 class="pick-name">Anker Prime 20,000mAh</h3>
+            <p class="pick-reason">200W high-speed multi-port output capable of fast-charging laptops and phones simultaneously.</p>
+            <a href="https://www.amazon.com/s?k=Anker+Prime+Power+Bank&tag=smartgearpi0a-20" 
+               class="btn-amazon" 
+               target="_blank" 
+               rel="sponsored nofollow noopener" 
+               data-product="anker-prime-power-bank" 
+               data-location="homepage" 
+               data-category="accessories">
+              <span>🛒</span> Check Price on Amazon
+            </a>
+          </div>
+
+          <!-- Pick 4: Keyboard -->
+          <div class="pick-card">
+            <span class="pick-tag">Top Keyboard Pick</span>
+            <div class="pick-img">
+              <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&auto=format&fit=crop&q=80" alt="Keychron Wireless Mechanical Keyboard" loading="lazy">
+            </div>
+            <div class="pick-category-label">Gaming & Productivity</div>
+            <h3 class="pick-name">Keychron Q1 Max</h3>
+            <p class="pick-reason">Premium CNC aluminum gasket-mount keyboard with multi-device 2.4GHz wireless and macOS/Win support.</p>
+            <a href="https://www.amazon.com/s?k=Keychron+Q1+Max&tag=smartgearpi0a-20" 
+               class="btn-amazon" 
+               target="_blank" 
+               rel="sponsored nofollow noopener" 
+               data-product="keychron-q1-max" 
+               data-location="homepage" 
+               data-category="gaming">
+              <span>🛒</span> Check Price on Amazon
+            </a>
+          </div>
+
+        </div>
+
+        <!-- 10. Affiliate Disclosure -->
+        <p class="top-picks-disclosure">
+          As an Amazon Associate, SmartGearPick may earn from qualifying purchases. This does not affect our editorial recommendations.
+        </p>
+      </div>
+    </section>
+
+    <!-- 11. Essential Accessories & Charging Section -->
+    <section class="guides-section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span class="section-title-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+              </svg>
+            </span>
+            <span>Essential Accessories & Charging</span>
+          </h2>
+          <a href="categories/accessories.html" class="section-link">Explore all accessories →</a>
+        </div>
+
+        <div class="articles-grid-4">
+          
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&auto=format&fit=crop&q=80" alt="High speed power bank charging phone" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Accessories</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-power-banks.html">Best Power Banks 2026 — Fast Charging Standards & Top Picks</a>
+              </h3>
+              <p class="card-excerpt">
+                Comprehensive breakdown of USB-PD 3.1 wattage standards, airline-safe capacities, and multi-device GaN power banks.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>6 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&auto=format&fit=crop&q=80" alt="Laptop stand on minimalist desk" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Accessories</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-laptop-stands.html">Best Laptop Stands 2026 — Ergonomics & Airflow</a>
+              </h3>
+              <p class="card-excerpt">
+                Discover the best ergonomic risers and portable folding stands to enhance comfort and device airflow.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>5 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80" alt="Mechanical Keyboard on desk" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-guide">Buying Guide</span>
+                <span class="badge-category">Gaming</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/best-mechanical-keyboards.html">Best Mechanical Keyboards 2026 — Gaming & Typing</a>
+              </h3>
+              <p class="card-excerpt">
+                Switch acoustics, hot-swap 5-pin PCB designs, Hall Effect rapid trigger latency, and CNC aluminum construction.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>7 min read</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="article-card">
+            <div class="card-img-wrapper">
+              <img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&auto=format&fit=crop&q=80" alt="Back to school tech supplies" loading="lazy">
+            </div>
+            <div class="card-body">
+              <div class="card-badges">
+                <span class="badge-type badge-edu">Guide</span>
+                <span class="badge-category">Back-to-School Tech</span>
+              </div>
+              <h3 class="card-title">
+                <a href="guides/back-to-school-checklist.html">Back-to-School Tech Checklist 2026</a>
+              </h3>
+              <p class="card-excerpt">
+                The ultimate tech checklist covering computing hardware, cloud backups, charging essentials, and workspace ergonomics.
+              </p>
+              <div class="card-footer">
+                <span>By SmartGearPick Editorial Team</span>
+                <span>9 min read</span>
+              </div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- 12. Why Trust SmartGearPick? (Professional Trust Cards) -->
+    <section class="trust-section">
+      <div class="container">
+        <div class="trust-header">
+          <h2 class="trust-main-title">Why Trust SmartGearPick?</h2>
+          <p class="trust-subtitle">
+            We research specifications, compare products, review publicly available independent testing and benchmark data, and evaluate real buying considerations to help readers make informed technology decisions.
+          </p>
+        </div>
+
+        <div class="trust-grid-4">
+          
+          <div class="trust-card">
+            <div class="trust-icon-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+              </svg>
+            </div>
+            <h3 class="trust-card-title">Independent Research</h3>
+            <p class="trust-card-text">Recommendations are based on research and comparison rather than paid placement.</p>
+          </div>
+
+          <div class="trust-card">
+            <div class="trust-icon-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="12" y1="16" x2="12" y2="12"></line>
+                <line x1="12" y1="8" x2="12.01" y2="8"></line>
+              </svg>
+            </div>
+            <h3 class="trust-card-title">Transparent Sources</h3>
+            <p class="trust-card-text">Important technical claims should be supported by reliable sources.</p>
+          </div>
+
+          <div class="trust-card">
+            <div class="trust-icon-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+            </div>
+            <h3 class="trust-card-title">Honest Pros & Cons</h3>
+            <p class="trust-card-text">Clearly explain both strengths and limitations.</p>
+          </div>
+
+          <div class="trust-card">
+            <div class="trust-icon-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect>
+                <line x1="1" y1="10" x2="23" y2="10"></line>
+              </svg>
+            </div>
+            <h3 class="trust-card-title">Affiliate Transparency</h3>
+            <p class="trust-card-text">Affiliate relationships should never determine editorial conclusions.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 13. Substantial Dark Navy Footer -->
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        
+        <!-- Brand Info Column -->
+        <div class="footer-col-brand">
+          <a href="index.html" class="brand-logo">
+            <span class="brand-icon">⚡</span>
+            <span>Smart<span class="brand-highlight">Gear</span>Pick</span>
+          </a>
+          <div class="footer-tagline">Reviews. Compare. Buy Smart.</div>
+          <p class="footer-brand-desc">
+            SmartGearPick delivers independent, research-backed technology reviews, structured buying guides, and technical comparisons based on transparent specifications and benchmark data.
+          </p>
+        </div>
+
+        <!-- Column 1: Categories -->
+        <div>
+          <h3 class="footer-heading">Categories</h3>
+          <ul class="footer-links">
+            <li><a href="categories/smartphones.html">Smartphones</a></li>
+            <li><a href="categories/laptops.html">Laptops</a></li>
+            <li><a href="categories/gaming.html">Gaming</a></li>
+            <li><a href="categories/audio.html">Audio</a></li>
+            <li><a href="categories/smart-home.html">Smart Home</a></li>
+            <li><a href="categories/accessories.html">Accessories</a></li>
+          </ul>
+        </div>
+
+        <!-- Column 2: Resources -->
+        <div>
+          <h3 class="footer-heading">Resources</h3>
+          <ul class="footer-links">
+            <li><a href="guides/index.html">Buying Guides</a></li>
+            <li><a href="reviews/index.html">Reviews</a></li>
+            <li><a href="comparisons/index.html">Comparisons</a></li>
+            <li><a href="hubs/back-to-school-tech.html">Back-to-School Tech</a></li>
+          </ul>
+        </div>
+
+        <!-- Column 3: Company -->
+        <div>
+          <h3 class="footer-heading">Company</h3>
+          <ul class="footer-links">
+            <li><a href="about.html">About</a></li>
+            <li><a href="about.html">Editorial Team</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="about.html#methodology">Editorial Methodology</a></li>
+          </ul>
+        </div>
+
+        <!-- Column 4: Legal -->
+        <div>
+          <h3 class="footer-heading">Legal</h3>
+          <ul class="footer-links">
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="privacy-policy.html#disclaimer">Disclaimer</a></li>
+            <li><a href="privacy-policy.html#affiliate-disclosure">Affiliate Disclosure</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <!-- Bottom Legal Notice -->
+      <div class="footer-legal-bar">
+        <p>&copy; 2026 SmartGearPick.com. All rights reserved.</p>
+        <p>As an Amazon Associate, SmartGearPick earns from qualifying purchases.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Core JavaScript -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+

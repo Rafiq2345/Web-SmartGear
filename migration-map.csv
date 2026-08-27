@@ -1,0 +1,45 @@
+old_url,new_url,status,redirect_required,notes
+BLOGGER_PENDING_MACBOOK_AIR_M5,/reviews/apple-macbook-air-m5-review.html,pending,yes,Rewrite needed: replace unsupported testing claims with spec benchmarks
+BLOGGER_PENDING_LAPTOPS_UNDER_1000,/guides/best-laptops-under-1000.html,pending,yes,Rewrite needed: strengthen budget tier breakdown & who should buy/skip
+BLOGGER_PENDING_STUDENT_LAPTOPS,/guides/best-laptops-for-students.html,pending,yes,Keep: connect to Back-to-School topic hub
+BLOGGER_PENDING_SONY_VS_AIRPODS,/comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html,pending,yes,Rewrite needed: transparent acoustic analysis & spec comparison
+BLOGGER_PENDING_MECHANICAL_KEYBOARDS,/guides/best-mechanical-keyboards.html,pending,yes,Keep: add switch comparison table and transparent research note
+BLOGGER_PENDING_STUDENT_TABLETS,/guides/best-tablets-for-students.html,pending,yes,Keep: cluster under student computing and mobile guides
+BLOGGER_PENDING_BACK_TO_SCHOOL_CHECKLIST,/guides/back-to-school-checklist.html,pending,yes,Keep: educational guide acting as topic cluster pillar
+BLOGGER_PENDING_LAPTOP_STANDS,/guides/best-laptop-stands.html,pending,yes,Keep: add ergonomics & weight capacity specs
+BLOGGER_PENDING_POWER_BANKS,/guides/best-power-banks.html,pending,yes,Rewrite needed: remove tested claim from title/body and add USB-PD wattage specs
+BLOGGER_PENDING_BUDGET_EARBUDS,/guides/best-budget-wireless-earbuds.html,pending,yes,Rewrite needed: sound codec & battery verification
+BLOGGER_PENDING_GAMING_MONITORS,/guides/best-gaming-monitors.html,pending,yes,Rewrite needed: refresh rate and VESA DisplayHDR specs
+BLOGGER_PENDING_SMART_PLUGS,/guides/best-smart-plugs.html,pending,yes,Keep: update Matter protocol compatibility
+BLOGGER_PENDING_IPHONE_VS_GALAXY,/comparisons/iphone-17-pro-vs-galaxy-s26-ultra.html,pending,yes,Rewrite needed: spec-by-spec comparison
+BLOGGER_PENDING_USBC_HUBS,/guides/best-usbc-hubs.html,pending,yes,Keep: add port bandwidth and power delivery pass-through specs
+BLOGGER_PENDING_ANC_HEADPHONES,/guides/best-noise-cancelling-headphones.html,pending,yes,Rewrite needed: comfort & verified weight/battery specs
+BLOGGER_PENDING_SMART_LIGHT_BULBS,/guides/best-smart-light-bulbs.html,pending,yes,Keep: smart lighting integration guide
+BLOGGER_PENDING_ERGONOMIC_MICE,/guides/best-ergonomic-mice.html,pending,yes,Keep: productivity ergonomics
+BLOGGER_PENDING_BUDGET_GAMING_LAPTOPS,/guides/best-laptops-under-1000.html,pending,yes,Merge: redirect into Best Laptops Under $1000 gaming section
+BLOGGER_PENDING_BLUETOOTH_SPEAKERS,/guides/best-portable-bluetooth-speakers.html,pending,yes,Keep: outdoor audio guide with IPX ratings
+BLOGGER_PENDING_ROBOT_VACUUMS,/guides/best-robot-vacuums-pet-hair.html,pending,yes,Rewrite needed: suction power Pa specs and roller types
+BLOGGER_PENDING_FAST_CHARGERS,/guides/best-fast-chargers.html,pending,yes,Keep: GaN III fast charging standards
+BLOGGER_PENDING_4K_WEBCAMS,/guides/best-4k-webcams.html,pending,yes,Keep: remote work video capture specs
+BLOGGER_PENDING_SMART_DOORBELLS,/guides/best-smart-doorbell-cameras.html,pending,yes,Rewrite needed: local storage & subscription comparison
+BLOGGER_PENDING_WIRELESS_GAMING_HEADSETS,/guides/best-wireless-gaming-headsets.html,pending,yes,Rewrite needed: 2.4GHz low latency & mic clarity specs
+BLOGGER_PENDING_FITNESS_SMARTWATCHES,/guides/best-smartwatch-fitness-tracking.html,pending,yes,Rewrite needed: sensor accuracy & battery benchmarks
+BLOGGER_PENDING_IPAD_ACCESSORIES,/guides/back-to-school-checklist.html,pending,yes,Merge: consolidate into Back-to-School Hub
+BLOGGER_PENDING_BUDGET_PHONES,/guides/best-budget-smartphones.html,pending,yes,Keep: under $300 smartphone recommendations
+BLOGGER_PENDING_QI2_CHARGERS,/guides/best-wireless-chargers-qi2.html,pending,yes,Keep: Qi2 15W magnetic wireless charging
+BLOGGER_PENDING_WIFI7_ROUTERS,/guides/best-wifi-7-routers.html,pending,yes,Rewrite needed: Wi-Fi 7 multi-link operation specs
+BLOGGER_PENDING_KEYBOARD_TYPES_EXPLAINED,/guides/mechanical-vs-membrane-keyboards.html,pending,yes,Keep: educational typing primer
+BLOGGER_PENDING_EXTERNAL_SSDS,/guides/best-external-ssds.html,pending,yes,Keep: NVMe sustained read/write rates
+BLOGGER_PENDING_SOUNDBARS,/guides/best-soundbars.html,pending,yes,Keep: home theater eARC guide
+BLOGGER_PENDING_ANDROID_TABLETS,/guides/best-tablets-for-students.html,pending,yes,Merge: redirect into tablet buying guide
+BLOGGER_PENDING_SMART_THERMOSTATS,/guides/best-smart-thermostats.html,pending,yes,Keep: smart energy savings & C-wire guide
+BLOGGER_PENDING_PC_CONTROLLERS,/guides/best-pc-gaming-controllers.html,pending,yes,Keep: Hall Effect joystick guides
+BLOGGER_PENDING_DESK_PADS,/guides/best-desk-pads.html,pending,yes,Keep: desk setup accessories
+BLOGGER_PENDING_SCREEN_PROTECTORS,/categories/accessories.html,pending,yes,Remove: redirect to Accessories category
+BLOGGER_PENDING_BLUE_LIGHT_GLASSES,/categories/accessories.html,pending,yes,Remove: redirect to Accessories category
+BLOGGER_PENDING_SECURITY_CAMERAS,/guides/best-smart-doorbell-cameras.html,pending,yes,Merge: consolidate into Security & Doorbell guide
+BLOGGER_PENDING_GAMING_CHAIRS,/guides/best-gaming-chairs.html,pending,yes,Rewrite needed: lumbar & frame specs
+BLOGGER_PENDING_MAGSAFE_WALLETS,/guides/best-magsafe-accessories.html,pending,yes,Keep: mobile accessories
+BLOGGER_PENDING_MATTER_EXPLAINED,/guides/what-is-matter-smart-home.html,pending,yes,Keep: smart home protocol explanation
+BLOGGER_PENDING_CABLE_MANAGEMENT,/guides/best-cable-management.html,pending,yes,Keep: desk organization guide
+
