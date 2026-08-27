@@ -1,0 +1,42 @@
+# ==============================================================================
+# Cloudflare Pages 301 Permanent Redirects Configuration
+# Domain: smartgearpick.com
+# Migration: Blogger -> Static HTML (Cloudflare Pages)
+# ==============================================================================
+
+# --- Core Blogger Static Pages (/p/...) ---
+/p/about-us.html                /about.html                                     301
+/p/about.html                   /about.html                                     301
+/p/contact.html                 /contact.html                                   301
+/p/contact-us.html              /contact.html                                   301
+/p/privacy-policy.html          /privacy-policy.html                            301
+/p/privacy.html                 /privacy-policy.html                            301
+/p/disclaimer.html              /privacy-policy.html                            301
+/p/affiliate-disclosure.html    /privacy-policy.html                            301
+/p/terms.html                   /privacy-policy.html                            301
+/p/terms-and-conditions.html   /privacy-policy.html                            301
+/p/terms-of-service.html        /privacy-policy.html                            301
+/p/editorial-policy.html        /about.html                                     301
+/p/methodology.html             /about.html                                     301
+
+# --- Blogger Category & Label Taxonomy Archives (/search/label/...) ---
+/search/label/Laptops           /categories/laptops.html                        301
+/search/label/laptops           /categories/laptops.html                        301
+/search/label/Smartphones       /categories/smartphones.html                    301
+/search/label/smartphones       /categories/smartphones.html                    301
+/search/label/Audio             /categories/audio.html                          301
+/search/label/audio             /categories/audio.html                          301
+/search/label/Gaming            /categories/gaming.html                         301
+/search/label/gaming            /categories/gaming.html                         301
+/search/label/Smart%20Home      /categories/smart-home.html                     301
+/search/label/Smart-Home        /categories/smart-home.html                     301
+/search/label/smart-home        /categories/smart-home.html                     301
+/search/label/Accessories       /categories/accessories.html                    301
+/search/label/accessories       /categories/accessories.html                    301
+/search/label/Reviews           /reviews/                                       301
+/search/label/reviews           /reviews/                                       301
+/search/label/Guides            /guides/                                        301
+/search/label/guides            /guides/                                        301
+/search/label/Tablets           /guides/best-tablets-for-students.html          301
+/search/label/tablets           /guides/best-tablets-for-students.html          301
+
