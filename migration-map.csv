@@ -53,13 +53,13 @@ old_url,new_url,status,redirect_required,notes
 /2026/05/best-smartwatches-in-2026-top-picks.html,/guides/best-smartwatches.html,confirmed,yes,Batch 4: Best Smartwatches in 2026 For Every Budget: 1:1 match
 /2026/05/best-cameras-in-2026-top-picks-reviewed.html,/guides/best-cameras-reviewed.html,confirmed,yes,Batch 4: Best Cameras in 2026 Top Picks Reviewed: 1:1 match
 /2026/05/best-gaming-accessories-under-100-in.html,/guides/best-gaming-accessories-under-100.html,confirmed,yes,Batch 4: Best Gaming Accessories Under $100: 1:1 match
-/2026/05/best-smart-home-devices-in-2026-top.html,,pending,no,Best Smart Home Devices: Awaiting new HTML page
-/2026/05/best-budget-laptops-under-300-in-2026.html,,pending,no,Best Budget Laptops Under $300: Awaiting new HTML page
-/2026/05/best-wireless-earbuds-under-50-in-2026.html,,pending,no,Best Wireless Earbuds Under $50: Awaiting new HTML page
-/2026/05/best-budget-smartphones-under-200-in.html,,pending,no,Best Budget Smartphones Under $200: Awaiting new HTML page
-/2026/06/iphone-fold-vs-galaxy-z-fold-7-which.html,,pending,no,iPhone Fold vs Galaxy Z Fold 7: Awaiting new HTML page
-/2026/06/iphone-18-pro-vs-iphone-17-pro-worth.html,,pending,no,iPhone 18 Pro vs iPhone 17 Pro: Awaiting new HTML page
-/2026/06/samsung-galaxy-z-fold-7-review-worth.html,,pending,no,Samsung Galaxy Z Fold 7 Review: Awaiting new HTML page
-/2026/06/apple-watch-vs-pixel-watch-vs-galaxy.html,,pending,no,Apple vs Pixel vs Galaxy Watch 2026: Awaiting new HTML page
-/2026/06/best-ai-smart-home-devices-2026-echo-vs.html,,pending,no,Best AI Smart Home Devices 2026 Echo vs Nest: Awaiting new HTML page
-/2026/06/best-robot-vacuums-2026-worth-money.html,,pending,no,Best Robot Vacuums 2026 Worth the Money: Awaiting new HTML page
+/2026/05/best-smart-home-devices-in-2026-top.html,/guides/smart-home-automation-essentials.html,confirmed,yes,Batch 5: Best Smart Home Devices Automation: 1:1 match
+/2026/05/best-budget-laptops-under-300-in-2026.html,/guides/best-budget-laptops-under-300.html,confirmed,yes,Batch 5: Best Budget Laptops Under $300: 1:1 match
+/2026/05/best-wireless-earbuds-under-50-in-2026.html,/guides/best-wireless-earbuds-under-50.html,confirmed,yes,Batch 5: Best Wireless Earbuds Under $50: 1:1 match
+/2026/05/best-budget-smartphones-under-200-in.html,/guides/best-budget-smartphones-under-200.html,confirmed,yes,Batch 5: Best Budget Smartphones Under $200: 1:1 match
+/2026/06/iphone-fold-vs-galaxy-z-fold-7-which.html,/comparisons/iphone-fold-vs-galaxy-z-fold-7.html,confirmed,yes,Batch 5: iPhone Fold vs Galaxy Z Fold 7: 1:1 match
+/2026/06/iphone-18-pro-vs-iphone-17-pro-worth.html,/comparisons/iphone-18-pro-vs-iphone-17-pro.html,confirmed,yes,Final Batch: iPhone 18 Pro vs iPhone 17 Pro: 1:1 match
+/2026/06/samsung-galaxy-z-fold-7-review-worth.html,/reviews/samsung-galaxy-z-fold-7-review.html,confirmed,yes,Final Batch: Samsung Galaxy Z Fold 7 Review: 1:1 match
+/2026/06/apple-watch-vs-pixel-watch-vs-galaxy.html,/comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html,confirmed,yes,Final Batch: Apple Watch vs Pixel Watch vs Galaxy Watch: 1:1 match
+/2026/06/best-ai-smart-home-devices-2026-echo-vs.html,/comparisons/amazon-echo-vs-google-nest.html,confirmed,yes,Final Batch: Amazon Echo vs Google Nest: 1:1 match
+/2026/06/best-robot-vacuums-2026-worth-money.html,/guides/best-robot-vacuums.html,confirmed,yes,Final Batch: Best Robot Vacuums 2026: 1:1 match
