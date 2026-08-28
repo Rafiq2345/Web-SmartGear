@@ -21,46 +21,45 @@ old_url,new_url,status,redirect_required,notes
 /search/label/Reviews,/reviews/,confirmed,yes,Taxonomy: Reviews archive redirect
 /search/label/Guides,/guides/,confirmed,yes,Taxonomy: Buying Guides archive redirect
 /search/label/Tablets,/guides/best-tablets-for-students.html,confirmed,yes,Taxonomy: Tablets label redirected to student tablet guide
-BLOGGER_PENDING_MACBOOK_AIR_M5,/reviews/apple-macbook-air-m5-review.html,pending_blogger_url,yes,Rewrite needed: replace unsupported testing claims with spec benchmarks (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_LAPTOPS_UNDER_1000,/guides/best-laptops-under-1000.html,pending_blogger_url,yes,Rewrite needed: strengthen budget tier breakdown & who should buy/skip (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_STUDENT_LAPTOPS,/guides/best-laptops-for-students.html,pending_blogger_url,yes,Keep: connect to Back-to-School topic hub (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SONY_VS_AIRPODS,/comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html,pending_blogger_url,yes,Rewrite needed: transparent acoustic analysis & spec comparison (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_MECHANICAL_KEYBOARDS,/guides/best-mechanical-keyboards.html,pending_blogger_url,yes,Keep: add switch comparison table and transparent research note (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_STUDENT_TABLETS,/guides/best-tablets-for-students.html,pending_blogger_url,yes,Keep: cluster under student computing and mobile guides (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BACK_TO_SCHOOL_CHECKLIST,/guides/back-to-school-checklist.html,pending_blogger_url,yes,Keep: educational guide acting as topic cluster pillar (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_LAPTOP_STANDS,/guides/best-laptop-stands.html,pending_blogger_url,yes,Keep: add ergonomics & weight capacity specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_POWER_BANKS,/guides/best-power-banks.html,pending_blogger_url,yes,Rewrite needed: remove tested claim from title/body and add USB-PD wattage specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BUDGET_EARBUDS,/guides/best-budget-wireless-earbuds.html,pending_blogger_url,yes,Rewrite needed: sound codec & battery verification (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_GAMING_MONITORS,/guides/best-gaming-monitors.html,pending_blogger_url,yes,Rewrite needed: refresh rate and VESA DisplayHDR specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SMART_PLUGS,/guides/best-smart-plugs.html,pending_blogger_url,yes,Keep: update Matter protocol compatibility (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_IPHONE_VS_GALAXY,/comparisons/iphone-17-pro-vs-galaxy-s26-ultra.html,pending_blogger_url,yes,Rewrite needed: spec-by-spec comparison (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_USBC_HUBS,/guides/best-usbc-hubs.html,pending_blogger_url,yes,Keep: add port bandwidth and power delivery pass-through specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_ANC_HEADPHONES,/guides/best-noise-cancelling-headphones.html,pending_blogger_url,yes,Rewrite needed: comfort & verified weight/battery specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SMART_LIGHT_BULBS,/guides/best-smart-light-bulbs.html,pending_blogger_url,yes,Keep: smart lighting integration guide (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_ERGONOMIC_MICE,/guides/best-ergonomic-mice.html,pending_blogger_url,yes,Keep: productivity ergonomics (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BUDGET_GAMING_LAPTOPS,/guides/best-laptops-under-1000.html,pending_blogger_url,yes,Merge: redirect into Best Laptops Under $1000 gaming section (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BLUETOOTH_SPEAKERS,/guides/best-portable-bluetooth-speakers.html,pending_blogger_url,yes,Keep: outdoor audio guide with IPX ratings (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_ROBOT_VACUUMS,/guides/best-robot-vacuums-pet-hair.html,pending_blogger_url,yes,Rewrite needed: suction power Pa specs and roller types (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_FAST_CHARGERS,/guides/best-fast-chargers.html,pending_blogger_url,yes,Keep: GaN III fast charging standards (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_4K_WEBCAMS,/guides/best-4k-webcams.html,pending_blogger_url,yes,Keep: remote work video capture specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SMART_DOORBELLS,/guides/best-smart-doorbell-cameras.html,pending_blogger_url,yes,Rewrite needed: local storage & subscription comparison (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_WIRELESS_GAMING_HEADSETS,/guides/best-wireless-gaming-headsets.html,pending_blogger_url,yes,Rewrite needed: 2.4GHz low latency & mic clarity specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_FITNESS_SMARTWATCHES,/guides/best-smartwatch-fitness-tracking.html,pending_blogger_url,yes,Rewrite needed: sensor accuracy & battery benchmarks (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_IPAD_ACCESSORIES,/guides/back-to-school-checklist.html,pending_blogger_url,yes,Merge: consolidate into Back-to-School Hub (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BUDGET_PHONES,/guides/best-budget-smartphones.html,pending_blogger_url,yes,Keep: under $300 smartphone recommendations (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_QI2_CHARGERS,/guides/best-wireless-chargers-qi2.html,pending_blogger_url,yes,Keep: Qi2 15W magnetic wireless charging (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_WIFI7_ROUTERS,/guides/best-wifi-7-routers.html,pending_blogger_url,yes,Rewrite needed: Wi-Fi 7 multi-link operation specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_KEYBOARD_TYPES_EXPLAINED,/guides/mechanical-vs-membrane-keyboards.html,pending_blogger_url,yes,Keep: educational typing primer (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_EXTERNAL_SSDS,/guides/best-external-ssds.html,pending_blogger_url,yes,Keep: NVMe sustained read/write rates (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SOUNDBARS,/guides/best-soundbars.html,pending_blogger_url,yes,Keep: home theater eARC guide (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_ANDROID_TABLETS,/guides/best-tablets-for-students.html,pending_blogger_url,yes,Merge: redirect into tablet buying guide (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SMART_THERMOSTATS,/guides/best-smart-thermostats.html,pending_blogger_url,yes,Keep: smart energy savings & C-wire guide (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_PC_CONTROLLERS,/guides/best-pc-gaming-controllers.html,pending_blogger_url,yes,Keep: Hall Effect joystick guides (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_DESK_PADS,/guides/best-desk-pads.html,pending_blogger_url,yes,Keep: desk setup accessories (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SCREEN_PROTECTORS,/categories/accessories.html,pending_blogger_url,yes,Remove: redirect to Accessories category (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_BLUE_LIGHT_GLASSES,/categories/accessories.html,pending_blogger_url,yes,Remove: redirect to Accessories category (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_SECURITY_CAMERAS,/guides/best-smart-doorbell-cameras.html,pending_blogger_url,yes,Merge: consolidate into Security & Doorbell guide (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_GAMING_CHAIRS,/guides/best-gaming-chairs.html,pending_blogger_url,yes,Rewrite needed: lumbar & frame specs (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_MAGSAFE_WALLETS,/guides/best-magsafe-accessories.html,pending_blogger_url,yes,Keep: mobile accessories (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_MATTER_EXPLAINED,/guides/what-is-matter-smart-home.html,pending_blogger_url,yes,Keep: smart home protocol explanation (Awaiting exact Blogger /YYYY/MM/ slug)
-BLOGGER_PENDING_CABLE_MANAGEMENT,/guides/best-cable-management.html,pending_blogger_url,yes,Keep: desk organization guide (Awaiting exact Blogger /YYYY/MM/ slug)
+/2026/06/apple-macbook-air-m5-review-worth-1099.html,/reviews/apple-macbook-air-m5-review.html,confirmed,yes,Apple MacBook Air M5 Review: 1:1 match
+/2026/06/sony-wf-1000xm6-vs-airpods-pro-3-which.html,/comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html,confirmed,yes,Sony WF-1000XM6 vs AirPods Pro 3: 1:1 match
+/2026/06/best-power-banks-2026-fast-charging.html,/guides/best-power-banks.html,confirmed,yes,Best Power Banks 2026: 1:1 match
+/2026/07/best-laptops-under-1000-in-2026-top-5.html,/guides/best-laptops-under-1000.html,confirmed,yes,Best Laptops Under $1000: 1:1 match
+/2026/07/best-laptops-for-students-2026-back-to.html,/guides/best-laptops-for-students.html,confirmed,yes,Best Laptops for Students: 1:1 match
+/2026/07/best-mechanical-keyboards-2026-gaming.html,/guides/best-mechanical-keyboards.html,confirmed,yes,Best Mechanical Keyboards: 1:1 match
+/2026/08/best-tablets-for-students-2026-top-5.html,/guides/best-tablets-for-students.html,confirmed,yes,Best Tablets for Students: 1:1 match
+/2026/08/back-to-school-checklist-2026.html,/guides/back-to-school-checklist.html,confirmed,yes,Back-to-School Checklist 2026: 1:1 match
+/2026/08/best-laptop-stands-2026.html,/guides/best-laptop-stands.html,confirmed,yes,Best Laptop Stands 2026: 1:1 match
+/2026/06/best-gaming-laptops-in-2026-top-5-picks.html,/guides/best-laptops-under-1000.html,confirmed,yes,Best Gaming Laptops: Merged into Best Laptops Under $1000 (gaming section)
+/2026/06/apple-airpods-pro-3-review-best-airpods.html,/comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html,confirmed,yes,Apple AirPods Pro 3 Review: Merged into Sony vs AirPods comparison
+/2026/06/best-laptops-in-2026-top-5-picks-for.html,/guides/best-laptops-for-students.html,confirmed,yes,Best Laptops Work Gaming & Students: Consolidated into student/work laptop guide
+/2026/06/should-you-upgrade-your-phone-in-2026.html,,pending,no,Should You Upgrade Your Phone in 2026? Awaiting new HTML page
+/2026/06/smart-home-devices-that-actually-work.html,,pending,no,Smart Home Devices That Actually Work: Awaiting new HTML page
+/2026/06/apple-watch-vs-samsung-vs-garmin-which.html,,pending,no,Apple Watch vs Samsung vs Garmin: Awaiting new HTML page
+/2026/06/best-budget-smartphones-under-300-in.html,,pending,no,Best Budget Smartphones Under $300 in 2026: Awaiting new HTML page
+/2026/05/best-smartphones-in-2026-top-5-picks.html,,pending,no,Best Smartphones in 2026 For Every Budget: Awaiting new HTML page
+/2026/05/best-cameras-in-2026-top-5-picks-for.html,,pending,no,Best Cameras in 2026 Beginners Pros & Video Creators: Awaiting new HTML page
+/2026/05/best-smartwatches-for-health-monitoring.html,,pending,no,Best Smartwatches for Health Monitoring in 2026: Awaiting new HTML page
+/2026/05/best-gaming-mouse-in-2026-top-5-picks.html,,pending,no,Best Gaming Mouse in 2026 Top 5 Picks: Awaiting new HTML page
+/2026/05/sony-wh-1000xm6-review-2026-best.html,,pending,no,Sony WH-1000XM6 Review 2026: Awaiting new HTML page
+/2026/05/best-wireless-earbuds-in-2026-top-5.html,,pending,no,Best Wireless Earbuds in 2026 For Every Budget: Awaiting new HTML page
+/2026/05/jbl-flip-7-review-2025-best-bluetooth.html,,pending,no,JBL Flip 7 Review 2026: Awaiting new HTML page
+/2026/05/dell-inspiron-15-review-2025-is-it.html,,pending,no,Dell Inspiron 15 Review 2026: Awaiting new HTML page
+/2026/05/best-smart-home-devices-in-2026-top-5.html,,pending,no,Best Smart Home Devices in 2026 That Actually Work: Awaiting new HTML page
+/2026/05/best-smartwatches-under-200-in-2026.html,,pending,no,Best Smartwatches Under $200 in 2026: Awaiting new HTML page
+/2026/05/best-smartphones-under-400-in-2026-top.html,,pending,no,Best Smartphones Under $400 in 2026: Awaiting new HTML page
+/2026/05/best-gaming-headsets-under-100-in-2026.html,,pending,no,Best Gaming Headsets Under $100 in 2026: Awaiting new HTML page
+/2026/05/best-bluetooth-speakers-in-2026-top.html,,pending,no,Best Bluetooth Speakers in 2026: Awaiting new HTML page
+/2026/05/best-smartwatches-in-2026-top-picks.html,,pending,no,Best Smartwatches in 2026 For Every Budget: Awaiting new HTML page
+/2026/05/best-cameras-in-2026-top-picks-reviewed.html,,pending,no,Best Cameras in 2026 Top Picks Reviewed: Awaiting new HTML page
+/2026/05/best-gaming-accessories-under-100-in.html,,pending,no,Best Gaming Accessories Under $100: Awaiting new HTML page
+/2026/05/best-smart-home-devices-in-2026-top.html,,pending,no,Best Smart Home Devices: Awaiting new HTML page
+/2026/05/best-budget-laptops-under-300-in-2026.html,,pending,no,Best Budget Laptops Under $300: Awaiting new HTML page
+/2026/05/best-wireless-earbuds-under-50-in-2026.html,,pending,no,Best Wireless Earbuds Under $50: Awaiting new HTML page
+/2026/05/best-budget-smartphones-under-200-in.html,,pending,no,Best Budget Smartphones Under $200: Awaiting new HTML page
+/2026/06/iphone-fold-vs-galaxy-z-fold-7-which.html,,pending,no,iPhone Fold vs Galaxy Z Fold 7: Awaiting new HTML page
+/2026/06/iphone-18-pro-vs-iphone-17-pro-worth.html,,pending,no,iPhone 18 Pro vs iPhone 17 Pro: Awaiting new HTML page
+/2026/06/samsung-galaxy-z-fold-7-review-worth.html,,pending,no,Samsung Galaxy Z Fold 7 Review: Awaiting new HTML page
+/2026/06/apple-watch-vs-pixel-watch-vs-galaxy.html,,pending,no,Apple vs Pixel vs Galaxy Watch 2026: Awaiting new HTML page
+/2026/06/best-ai-smart-home-devices-2026-echo-vs.html,,pending,no,Best AI Smart Home Devices 2026 Echo vs Nest: Awaiting new HTML page
+/2026/06/best-robot-vacuums-2026-worth-money.html,,pending,no,Best Robot Vacuums 2026 Worth the Money: Awaiting new HTML page
