@@ -5,93 +5,93 @@
 # ==============================================================================
 
 # --- Core Blogger Static Pages (/p/...) ---
-/p/about-us.html                /about.html                                     301
-/p/about.html                   /about.html                                     301
-/p/contact.html                 /contact.html                                   301
-/p/contact-us.html              /contact.html                                   301
-/p/privacy-policy.html          /privacy-policy.html                            301
-/p/privacy.html                 /privacy-policy.html                            301
-/p/disclaimer.html              /privacy-policy.html                            301
-/p/affiliate-disclosure.html    /privacy-policy.html                            301
-/p/terms.html                   /privacy-policy.html                            301
-/p/terms-and-conditions.html   /privacy-policy.html                            301
-/p/terms-of-service.html        /privacy-policy.html                            301
-/p/editorial-policy.html        /about.html                                     301
-/p/methodology.html             /about.html                                     301
+/p/about-us.html  /about  301
+/p/about.html  /about  301
+/p/contact.html  /contact  301
+/p/contact-us.html  /contact  301
+/p/privacy-policy.html  /privacy-policy  301
+/p/privacy.html  /privacy-policy  301
+/p/disclaimer.html  /privacy-policy  301
+/p/affiliate-disclosure.html  /privacy-policy  301
+/p/terms.html  /privacy-policy  301
+/p/terms-and-conditions.html  /privacy-policy  301
+/p/terms-of-service.html  /privacy-policy  301
+/p/editorial-policy.html  /about  301
+/p/methodology.html  /about  301
 
 # --- Blogger Category & Label Taxonomy Archives (/search/label/...) ---
-/search/label/Laptops           /categories/laptops.html                        301
-/search/label/laptops           /categories/laptops.html                        301
-/search/label/Smartphones       /categories/smartphones.html                    301
-/search/label/smartphones       /categories/smartphones.html                    301
-/search/label/Audio             /categories/audio.html                          301
-/search/label/audio             /categories/audio.html                          301
-/search/label/Gaming            /categories/gaming.html                         301
-/search/label/gaming            /categories/gaming.html                         301
-/search/label/Smart%20Home      /categories/smart-home.html                     301
-/search/label/Smart-Home        /categories/smart-home.html                     301
-/search/label/smart-home        /categories/smart-home.html                     301
-/search/label/Accessories       /categories/accessories.html                    301
-/search/label/accessories       /categories/accessories.html                    301
-/search/label/Reviews           /reviews/                                       301
-/search/label/reviews           /reviews/                                       301
-/search/label/Guides            /guides/                                        301
-/search/label/guides            /guides/                                        301
-/search/label/Tablets           /guides/best-tablets-for-students.html          301
-/search/label/tablets           /guides/best-tablets-for-students.html          301
+/search/label/Laptops  /categories/laptops  301
+/search/label/laptops  /categories/laptops  301
+/search/label/Smartphones  /categories/smartphones  301
+/search/label/smartphones  /categories/smartphones  301
+/search/label/Audio  /categories/audio  301
+/search/label/audio  /categories/audio  301
+/search/label/Gaming  /categories/gaming  301
+/search/label/gaming  /categories/gaming  301
+/search/label/Smart%20Home  /categories/smart-home  301
+/search/label/Smart-Home  /categories/smart-home  301
+/search/label/smart-home  /categories/smart-home  301
+/search/label/Accessories  /categories/accessories  301
+/search/label/accessories  /categories/accessories  301
+/search/label/Reviews  /reviews/  301
+/search/label/reviews  /reviews/  301
+/search/label/Guides  /guides/  301
+/search/label/guides  /guides/  301
+/search/label/Tablets  /guides/best-tablets-for-students  301
+/search/label/tablets  /guides/best-tablets-for-students  301
 
 # --- Confirmed Historical Blogger Articles (301 Permanent Redirects) ---
-/2026/06/apple-macbook-air-m5-review-worth-1099.html    /reviews/apple-macbook-air-m5-review.html               301
-/2026/06/sony-wf-1000xm6-vs-airpods-pro-3-which.html    /comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html     301
-/2026/06/best-power-banks-2026-fast-charging.html       /guides/best-power-banks.html                           301
-/2026/07/best-laptops-under-1000-in-2026-top-5.html     /guides/best-laptops-under-1000.html                    301
-/2026/07/best-laptops-for-students-2026-back-to.html    /guides/best-laptops-for-students.html                  301
-/2026/07/best-mechanical-keyboards-2026-gaming.html     /guides/best-mechanical-keyboards.html                  301
-/2026/08/best-tablets-for-students-2026-top-5.html      /guides/best-tablets-for-students.html                  301
-/2026/08/back-to-school-checklist-2026.html             /guides/back-to-school-checklist.html                   301
-/2026/08/best-laptop-stands-2026.html                   /guides/best-laptop-stands.html                         301
-/2026/06/best-gaming-laptops-in-2026-top-5-picks.html   /guides/best-laptops-under-1000.html                    301
-/2026/06/apple-airpods-pro-3-review-best-airpods.html   /comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html     301
-/2026/06/best-laptops-in-2026-top-5-picks-for.html     /guides/best-laptops-for-students.html                  301
+/2026/06/apple-macbook-air-m5-review-worth-1099.html  /reviews/apple-macbook-air-m5-review  301
+/2026/06/sony-wf-1000xm6-vs-airpods-pro-3-which.html  /comparisons/sony-wf-1000xm6-vs-airpods-pro-3  301
+/2026/06/best-power-banks-2026-fast-charging.html  /guides/best-power-banks  301
+/2026/07/best-laptops-under-1000-in-2026-top-5.html  /guides/best-laptops-under-1000  301
+/2026/07/best-laptops-for-students-2026-back-to.html  /guides/best-laptops-for-students  301
+/2026/07/best-mechanical-keyboards-2026-gaming.html  /guides/best-mechanical-keyboards  301
+/2026/08/best-tablets-for-students-2026-top-5.html  /guides/best-tablets-for-students  301
+/2026/08/back-to-school-checklist-2026.html  /guides/back-to-school-checklist  301
+/2026/08/best-laptop-stands-2026.html  /guides/best-laptop-stands  301
+/2026/06/best-gaming-laptops-in-2026-top-5-picks.html  /guides/best-laptops-under-1000  301
+/2026/06/apple-airpods-pro-3-review-best-airpods.html  /comparisons/sony-wf-1000xm6-vs-airpods-pro-3  301
+/2026/06/best-laptops-in-2026-top-5-picks-for.html  /guides/best-laptops-for-students  301
 
 # --- Batch 1 Migrated Articles (301 Permanent Redirects) ---
-/2026/06/should-you-upgrade-your-phone-in-2026.html     /guides/should-you-upgrade-your-phone-in-2026.html      301
-/2026/06/smart-home-devices-that-actually-work.html     /guides/smart-home-devices-that-actually-work.html      301
-/2026/06/apple-watch-vs-samsung-vs-garmin-which.html    /comparisons/apple-watch-vs-samsung-vs-garmin.html      301
-/2026/06/best-budget-smartphones-under-300-in.html      /guides/best-budget-smartphones-under-300.html          301
-/2026/05/best-smartphones-in-2026-top-5-picks.html     /guides/best-smartphones.html                           301
+/2026/06/should-you-upgrade-your-phone-in-2026.html  /guides/should-you-upgrade-your-phone-in-2026  301
+/2026/06/smart-home-devices-that-actually-work.html  /guides/smart-home-devices-that-actually-work  301
+/2026/06/apple-watch-vs-samsung-vs-garmin-which.html  /comparisons/apple-watch-vs-samsung-vs-garmin  301
+/2026/06/best-budget-smartphones-under-300-in.html  /guides/best-budget-smartphones-under-300  301
+/2026/05/best-smartphones-in-2026-top-5-picks.html  /guides/best-smartphones  301
 
 # --- Batch 2 Migrated Articles (301 Permanent Redirects) ---
-/2026/05/best-cameras-in-2026-top-5-picks-for.html      /guides/best-cameras.html                               301
-/2026/05/best-smartwatches-for-health-monitoring.html   /guides/best-smartwatches-for-health-monitoring.html    301
-/2026/05/best-gaming-mouse-in-2026-top-5-picks.html     /guides/best-gaming-mouse.html                          301
-/2026/05/sony-wh-1000xm6-review-2026-best.html          /reviews/sony-wh-1000xm6-review.html                    301
-/2026/05/best-wireless-earbuds-in-2026-top-5.html       /guides/best-wireless-earbuds.html                      301
+/2026/05/best-cameras-in-2026-top-5-picks-for.html  /guides/best-cameras  301
+/2026/05/best-smartwatches-for-health-monitoring.html  /guides/best-smartwatches-for-health-monitoring  301
+/2026/05/best-gaming-mouse-in-2026-top-5-picks.html  /guides/best-gaming-mouse  301
+/2026/05/sony-wh-1000xm6-review-2026-best.html  /reviews/sony-wh-1000xm6-review  301
+/2026/05/best-wireless-earbuds-in-2026-top-5.html  /guides/best-wireless-earbuds  301
 
 # --- Batch 3 Migrated Articles (301 Permanent Redirects) ---
-/2026/05/jbl-flip-7-review-2025-best-bluetooth.html     /reviews/jbl-flip-7-review.html                         301
-/2026/05/dell-inspiron-15-review-2025-is-it.html        /reviews/dell-inspiron-15-review.html                   301
-/2026/05/best-smart-home-devices-in-2026-top-5.html     /guides/best-smart-home-devices.html                    301
-/2026/05/best-smartwatches-under-200-in-2026.html       /guides/best-smartwatches-under-200.html                301
-/2026/05/best-smartphones-under-400-in-2026-top.html    /guides/best-smartphones-under-400.html                 301
+/2026/05/jbl-flip-7-review-2025-best-bluetooth.html  /reviews/jbl-flip-7-review  301
+/2026/05/dell-inspiron-15-review-2025-is-it.html  /reviews/dell-inspiron-15-review  301
+/2026/05/best-smart-home-devices-in-2026-top-5.html  /guides/best-smart-home-devices  301
+/2026/05/best-smartwatches-under-200-in-2026.html  /guides/best-smartwatches-under-200  301
+/2026/05/best-smartphones-under-400-in-2026-top.html  /guides/best-smartphones-under-400  301
 
 # --- Batch 4 Migrated Articles (301 Permanent Redirects) ---
-/2026/05/best-gaming-headsets-under-100-in-2026.html    /guides/best-gaming-headsets-under-100.html             301
-/2026/05/best-bluetooth-speakers-in-2026-top.html       /guides/best-bluetooth-speakers.html                    301
-/2026/05/best-smartwatches-in-2026-top-picks.html       /guides/best-smartwatches.html                          301
-/2026/05/best-cameras-in-2026-top-picks-reviewed.html   /guides/best-cameras-reviewed.html                      301
-/2026/05/best-gaming-accessories-under-100-in.html     /guides/best-gaming-accessories-under-100.html          301
+/2026/05/best-gaming-headsets-under-100-in-2026.html  /guides/best-gaming-headsets-under-100  301
+/2026/05/best-bluetooth-speakers-in-2026-top.html  /guides/best-bluetooth-speakers  301
+/2026/05/best-smartwatches-in-2026-top-picks.html  /guides/best-smartwatches  301
+/2026/05/best-cameras-in-2026-top-picks-reviewed.html  /guides/best-cameras-reviewed  301
+/2026/05/best-gaming-accessories-under-100-in.html  /guides/best-gaming-accessories-under-100  301
 
 # --- Batch 5 Migrated Articles (301 Permanent Redirects) ---
-/2026/05/best-smart-home-devices-in-2026-top.html       /guides/smart-home-automation-essentials.html           301
-/2026/05/best-budget-laptops-under-300-in-2026.html     /guides/best-budget-laptops-under-300.html              301
-/2026/05/best-wireless-earbuds-under-50-in-2026.html    /guides/best-wireless-earbuds-under-50.html             301
-/2026/05/best-budget-smartphones-under-200-in.html      /guides/best-budget-smartphones-under-200.html          301
-/2026/06/iphone-fold-vs-galaxy-z-fold-7-which.html      /comparisons/iphone-fold-vs-galaxy-z-fold-7.html        301
+/2026/05/best-smart-home-devices-in-2026-top.html  /guides/smart-home-automation-essentials  301
+/2026/05/best-budget-laptops-under-300-in-2026.html  /guides/best-budget-laptops-under-300  301
+/2026/05/best-wireless-earbuds-under-50-in-2026.html  /guides/best-wireless-earbuds-under-50  301
+/2026/05/best-budget-smartphones-under-200-in.html  /guides/best-budget-smartphones-under-200  301
+/2026/06/iphone-fold-vs-galaxy-z-fold-7-which.html  /comparisons/iphone-fold-vs-galaxy-z-fold-7  301
 
 # --- Batch 6 Migrated Articles (301 Permanent Redirects) ---
-/2026/06/iphone-18-pro-vs-iphone-17-pro-worth.html      /comparisons/iphone-18-pro-vs-iphone-17-pro.html        301
-/2026/06/samsung-galaxy-z-fold-7-review-worth.html      /reviews/samsung-galaxy-z-fold-7-review.html            301
-/2026/06/apple-watch-vs-pixel-watch-vs-galaxy.html      /comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html 301
-/2026/06/best-ai-smart-home-devices-2026-echo-vs.html   /comparisons/amazon-echo-vs-google-nest.html            301
-/2026/06/best-robot-vacuums-2026-worth-money.html       /guides/best-robot-vacuums.html                         301
+/2026/06/iphone-18-pro-vs-iphone-17-pro-worth.html  /comparisons/iphone-18-pro-vs-iphone-17-pro  301
+/2026/06/samsung-galaxy-z-fold-7-review-worth.html  /reviews/samsung-galaxy-z-fold-7-review  301
+/2026/06/apple-watch-vs-pixel-watch-vs-galaxy.html  /comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch  301
+/2026/06/best-ai-smart-home-devices-2026-echo-vs.html  /comparisons/amazon-echo-vs-google-nest  301
+/2026/06/best-robot-vacuums-2026-worth-money.html  /guides/best-robot-vacuums  301
