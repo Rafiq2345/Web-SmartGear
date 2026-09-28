@@ -72,3 +72,10 @@ Web-SmartGear/
    - Interlinks student laptops, tablets, chargers, laptop stands, and audio into an internal topic cluster.
 6. **Zero Build Step Requirement**:
    - Fast, dependency-free static files ready for instant deployment to GitHub Pages, Cloudflare Pages, Netlify, or Vercel.
+7. **Article & Social Image Production Standard (41/41 Approved Standard)**:
+   - Every article uses a local first-party JPEG at `assets/images/articles/[slug].jpg`.
+   - Exactly **1200 × 800 pixels**, progressive JPEG (`SOF2`/`0xC2`), 3-channel sRGB.
+   - All ICC and EXIF metadata stripped to prevent social crawler parser failures.
+   - Social metadata in `<head>` synchronized to master reference (`summary_large_image`, `1200x800`, `image/jpeg`).
+   - Automated CLI pipeline: `python scripts/process-article-image.py <source> <slug>`.
+   - Pre-deployment validation: `node scripts/validate-articles.js`. See [STANDARDS.md](STANDARDS.md) and [AGENTS.md](AGENTS.md).
