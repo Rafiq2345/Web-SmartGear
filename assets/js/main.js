@@ -121,18 +121,18 @@ function initSearchModal() {
     const pathPrefix = isSubdir ? '../' : '';
 
     const siteLinks = [
-      { title: 'Apple MacBook Air M5 Review', url: 'reviews/apple-macbook-air-m5-review.html', cat: 'Reviews • Laptops' },
-      { title: 'Best Laptops Under $1,000 in 2026', url: 'guides/best-laptops-under-1000.html', cat: 'Buying Guides • Laptops' },
-      { title: 'Best Laptops for Students 2026', url: 'guides/best-laptops-for-students.html', cat: 'Buying Guides • Laptops' },
-      { title: 'Sony WF-1000XM6 vs AirPods Pro 3', url: 'comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html', cat: 'Comparisons • Audio' },
-      { title: 'Best Mechanical Keyboards 2026', url: 'guides/best-mechanical-keyboards.html', cat: 'Buying Guides • Gaming' },
-      { title: 'Best Tablets for Students 2026', url: 'guides/best-tablets-for-students.html', cat: 'Buying Guides • Mobile' },
-      { title: 'Best Laptop Stands 2026', url: 'guides/best-laptop-stands.html', cat: 'Buying Guides • Accessories' },
-      { title: 'Best Power Banks 2026', url: 'guides/best-power-banks.html', cat: 'Buying Guides • Accessories' },
-      { title: 'Back-to-School Tech Checklist 2026', url: 'guides/back-to-school-checklist.html', cat: 'Hub • Back-to-School Tech' },
-      { title: 'All Buying Guides Hub', url: 'guides/index.html', cat: 'Hub • Guides' },
-      { title: 'All Tech Reviews Hub', url: 'reviews/index.html', cat: 'Hub • Reviews' },
-      { title: 'Head-to-Head Comparisons Hub', url: 'comparisons/index.html', cat: 'Hub • Comparisons' }
+      { title: 'Apple MacBook Air M5 Review', url: 'reviews/apple-macbook-air-m5-review', cat: 'Reviews • Laptops' },
+      { title: 'Best Laptops Under $1,000 in 2026', url: 'guides/best-laptops-under-1000', cat: 'Buying Guides • Laptops' },
+      { title: 'Best Laptops for Students 2026', url: 'guides/best-laptops-for-students', cat: 'Buying Guides • Laptops' },
+      { title: 'Sony WF-1000XM6 vs AirPods Pro 3', url: 'comparisons/sony-wf-1000xm6-vs-airpods-pro-3', cat: 'Comparisons • Audio' },
+      { title: 'Best Mechanical Keyboards 2026', url: 'guides/best-mechanical-keyboards', cat: 'Buying Guides • Gaming' },
+      { title: 'Best Tablets for Students 2026', url: 'guides/best-tablets-for-students', cat: 'Buying Guides • Mobile' },
+      { title: 'Best Laptop Stands 2026', url: 'guides/best-laptop-stands', cat: 'Buying Guides • Accessories' },
+      { title: 'Best Power Banks 2026', url: 'guides/best-power-banks', cat: 'Buying Guides • Accessories' },
+      { title: 'Back-to-School Tech Checklist 2026', url: 'guides/back-to-school-checklist', cat: 'Hub • Back-to-School Tech' },
+      { title: 'All Buying Guides Hub', url: 'guides/', cat: 'Hub • Guides' },
+      { title: 'All Tech Reviews Hub', url: 'reviews/', cat: 'Hub • Reviews' },
+      { title: 'Head-to-Head Comparisons Hub', url: 'comparisons/', cat: 'Hub • Comparisons' }
     ];
 
     searchInput.addEventListener('input', (e) => {
