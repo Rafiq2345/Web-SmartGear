@@ -4,6 +4,11 @@
 # Migration: Blogger -> Static HTML (Cloudflare Pages)
 # ==============================================================================
 
+# --- Canonical host: www -> apex (SEO: single canonical hostname) ---
+# Placed first so www requests redirect before any path rule is evaluated.
+# Repo-side only; no Cloudflare dashboard change.
+https://www.smartgearpick.com/* https://smartgearpick.com/:splat 301!
+
 # --- Core Blogger Static Pages (/p/...) ---
 /p/about-us.html  /about  301
 /p/about.html  /about  301
