@@ -18,9 +18,9 @@ https://www.smartgearpick.com/* https://smartgearpick.com/:splat 301!
 /p/privacy.html  /privacy-policy  301
 /p/disclaimer.html  /privacy-policy  301
 /p/affiliate-disclosure.html  /privacy-policy  301
-/p/terms.html  /privacy-policy  301
-/p/terms-and-conditions.html  /privacy-policy  301
-/p/terms-of-service.html  /privacy-policy  301
+/p/terms.html  /terms  301
+/p/terms-and-conditions.html  /terms  301
+/p/terms-of-service.html  /terms  301
 /p/editorial-policy.html  /about  301
 /p/methodology.html  /about  301
 
