@@ -79,3 +79,5 @@ Web-SmartGear/
    - Social metadata in `<head>` synchronized to master reference (`summary_large_image`, `1200x800`, `image/jpeg`).
    - Automated CLI pipeline: `python scripts/process-article-image.py <source> <slug>`.
    - Pre-deployment validation: `node scripts/validate-articles.js`. See [STANDARDS.md](STANDARDS.md) and [AGENTS.md](AGENTS.md).
+
+<!-- content update 2026-10-21: buy buttons rollout (C12/C13) -->
