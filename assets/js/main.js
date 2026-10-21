@@ -121,6 +121,8 @@ function initSearchModal() {
     const pathPrefix = isSubdir ? '../' : '';
 
     const siteLinks = [
+      { title: 'iPhone Duo: Launch-Day Buying Guide 2026', url: 'guides/iphone-duo-launch-day-buying-guide', cat: 'Buying Guides • Smartphones' },
+      { title: 'Best Tech Gifts Under $100 in 2026', url: 'guides/best-tech-gifts-under-100', cat: 'Buying Guides • Holiday 2026' },
       { title: 'Apple MacBook Air M5 Review', url: 'reviews/apple-macbook-air-m5-review', cat: 'Reviews • Laptops' },
       { title: 'Best Laptops Under $1,000 in 2026', url: 'guides/best-laptops-under-1000', cat: 'Buying Guides • Laptops' },
       { title: 'Best Laptops for Students 2026', url: 'guides/best-laptops-for-students', cat: 'Buying Guides • Laptops' },
