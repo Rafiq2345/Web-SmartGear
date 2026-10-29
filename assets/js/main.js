@@ -130,6 +130,7 @@ function initSearchModal() {
       { title: 'Best Mechanical Keyboards 2026', url: 'guides/best-mechanical-keyboards', cat: 'Buying Guides • Gaming' },
       { title: 'Best Tablets for Students 2026', url: 'guides/best-tablets-for-students', cat: 'Buying Guides • Mobile' },
       { title: 'Best Budget Tablets Under $300 in 2026', url: 'guides/best-budget-tablets-under-300', cat: 'Buying Guides • Tablets' },
+      { title: 'Best E-Readers in 2026', url: 'guides/best-e-readers-in-2026', cat: 'Buying Guides • E-Readers' },
       { title: 'Best Laptop Stands 2026', url: 'guides/best-laptop-stands', cat: 'Buying Guides • Accessories' },
       { title: 'Best Power Banks 2026', url: 'guides/best-power-banks', cat: 'Buying Guides • Accessories' },
       { title: 'Back-to-School Tech Checklist 2026', url: 'guides/back-to-school-checklist', cat: 'Hub • Back-to-School Tech' },
