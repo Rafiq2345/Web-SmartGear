@@ -7,6 +7,12 @@
     <loc>https://smartgearpick.com/about</loc>
   </url>
   <url>
+    <loc>https://smartgearpick.com/authors/lisa-jack</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://smartgearpick.com/categories/accessories</loc>
   </url>
   <url>
