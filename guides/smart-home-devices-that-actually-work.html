@@ -61,7 +61,7 @@
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Ultraloq U-Bolt Pro (Matter over Thread)",
+        "name": "Ultraloq Bolt Fingerprint (Matter over Thread)",
         "url": "https://smartgearpick.com/guides/smart-home-devices-that-actually-work#ultraloq-lock"
       }
     ]
@@ -222,11 +222,11 @@
               <td>Reolink Video Doorbell (PoE / Wi-Fi)</td>
               <td>Local microSD / RTSP / ONVIF</td>
               <td>2K HDR video, on-device AI human detection, zero cloud fees</td>
-              <td>~$99.99</td>
+              <td>~$119.99 (PoE) / ~$149.99 (Wi-Fi)</td>
             </tr>
             <tr>
               <td><strong>3. Offline Smart Deadbolt</strong></td>
-              <td>Ultraloq U-Bolt Pro (Matter)</td>
+              <td>Ultraloq Bolt Fingerprint (Matter)</td>
               <td>Matter over Thread</td>
               <td>Local biometric fingerprint recognition, auto-unlock, offline Matter access</td>
               <td>~$199.99</td>
@@ -246,6 +246,9 @@
           <li><a href="#top-devices" class="toc-link">3. The Most Reliable Local & Subscription-Free Hardware</a></li>
           <li><a href="#buying-rules" class="toc-link">4. 4 Rules for a Subscription-Free, Cloud-Resilient Smart Home</a></li>
           <li><a href="#how-to-choose" class="toc-link">5. How to Choose Your Local-First Setup</a></li>
+          <li><a href="#home-assistant-question" class="toc-link">Do you need Home Assistant, or is Matter enough?</a></li>
+          <li><a href="#what-to-buy" class="toc-link">What we'd buy and why</a></li>
+          <li><a href="#sources" class="toc-link">Sources</a></li>
           <li><a href="#faq" class="toc-link">6. Frequently Asked Questions</a></li>
           <li><a href="#related-links" class="toc-link">7. Related Ecosystem Guides</a></li>
         </ul>
@@ -316,6 +319,11 @@
           </div>
         </div>
 
+
+        <h3>The Eve Energy in real use</h3>
+        <p>
+          The Eve Energy's real job is not switching a lamp on and off — it is telling you what your devices cost. Plug it into a home office setup, a TV console or an old fridge and its energy metering shows live watts and cumulative kilowatt-hours, which is how you find the vampire loads: the game console drawing power in standby, the space heater you forgot, the charger that never sleeps. Eve's metering is a dedicated metering chip rather than a software estimate, and since an April 2025 firmware update the energy data is reported over Matter itself, so it shows up in Apple Home and Home Assistant rather than only in Eve's own app. Two limits to respect. The plug is rated 15A / 1800W resistive, which covers nearly everything in a home — but a high-draw resistive heater running near that ceiling for hours is exactly the use case where a plug's rating is a maximum, not a target, so check the appliance's own draw first. And the 0.4W standby draw Eve quotes is the lowest in its class, which matters precisely because a plug that monitors energy should not itself become a load worth monitoring.
+        </p>
         <!-- Product 2 -->
         <div id="reolink-doorbell" class="product-review-block">
           <div class="product-review-header">
@@ -323,7 +331,7 @@
               <span class="product-badge-rank">#2 Best Subscription-Free Video Doorbell</span>
               <h3 class="product-name-heading">Reolink Video Doorbell (PoE / Wi-Fi)</h3>
             </div>
-            <div class="product-price-est">~$99.99</div>
+            <div class="product-price-est">~$119.99 (PoE) / ~$149.99 (Wi-Fi)</div>
           </div>
           <p>
             Eliminate recurring monthly camera cloud fees with Reolink's 2K video doorbell. It processes AI person and package detection directly on-device and records 24/7 footage locally to an onboard high-endurance microSD card or Network Video Recorder (NVR) with native RTSP stream support.
@@ -358,17 +366,22 @@
           </div>
         </div>
 
+
+        <h3>The Reolink doorbell in real use</h3>
+        <p>
+          Choose the version by your wiring, not by the price tag. The PoE version takes one Ethernet cable for power and data and records continuously to an NVR — the set-and-forget option for a home that already has network cable at the door. The Wi-Fi version runs on existing doorbell wiring instead, and records to a microSD card (up to 256GB, card not included) or an NVR. Both give you the 4:3 view that shows a visitor's face and the package at their feet in the same frame, and both run person and vehicle detection on-device with no monthly fee — the detection is included, not a subscription tier. Two honest limits: the doorbell does not natively support Apple HomeKit or Matter, so it will not appear in Apple Home, and the Reolink app is less polished than Ring's. What you are buying is the opposite trade — footage that stays in your home, on your card or your recorder, with RTSP and ONVIF streams that Home Assistant and NVR software can use directly.
+        </p>
         <!-- Product 3 -->
         <div id="ultraloq-lock" class="product-review-block">
           <div class="product-review-header">
             <div>
               <span class="product-badge-rank">#3 Best Offline Biometric Smart Lock</span>
-              <h3 class="product-name-heading">Ultraloq U-Bolt Pro (Matter over Thread)</h3>
+              <h3 class="product-name-heading">Ultraloq Bolt Fingerprint (Matter over Thread)</h3>
             </div>
             <div class="product-price-est">~$199.99</div>
           </div>
           <p>
-            The Ultraloq U-Bolt Pro Matter deadbolt provides 6-in-1 keyless entry with on-device fingerprint processing and local Thread connectivity. By communicating via Matter over Thread, it integrates into your smart home without relying on external cloud bridges or Wi-Fi battery drain.
+            The Ultraloq Bolt Fingerprint Matter deadbolt provides keyless entry with on-device fingerprint processing and local Thread connectivity. By communicating via Matter over Thread, it integrates into your smart home without relying on external cloud bridges or Wi-Fi battery drain.
           </p>
           <div class="pros-cons-grid">
             <div class="pros-card">
@@ -388,11 +401,11 @@
           </div>
           <div class="product-action-bar">
             <div><strong>Best for:</strong> Homeowners wanting secure, keyless door access with local Matter automations and zero cloud dependency.</div>
-            <a href="https://www.amazon.com/s?k=Ultraloq+U-Bolt+Pro+Matter&tag=smartgearpi0a-20" 
+            <a href="https://www.amazon.com/s?k=Ultraloq+Bolt+Fingerprint+Matter&tag=smartgearpi0a-20" 
                class="btn-affiliate" 
                target="_blank" 
                rel="nofollow noopener sponsored" 
-               data-product="ultraloq-ubolt-pro" 
+               data-product="ultraloq-bolt-fingerprint" 
                data-location="guide" 
                data-category="smart-home">
               <span class="btn-affiliate-icon">🛒</span> Check Amazon Price
@@ -400,6 +413,11 @@
           </div>
         </div>
 
+
+        <h3>The Ultraloq lock in real use</h3>
+        <p>
+          A note on the name first, because Ultraloq's own lineup is confusing: the model in this guide is the Bolt Fingerprint with Matter over Thread — the $199.99 Matter-certified deadbolt — not the U-Bolt Pro, which is the Wi-Fi/Bluetooth model the name is often mixed up with. The Bolt Fingerprint is the right pick for a local-first home because it joins the Thread mesh like the Eve plug above, so lock and unlock automations run locally with no cloud bridge and no Wi-Fi battery drain. Its fingerprint reader is the daily win — faster than a code for children and guests, with an anti-peep keypad that lets you enter a PIN with random digits around it — and it runs on 8 AA batteries with a physical keyway as the backup. Two things to check before ordering. First, availability: the Matter version was listed as sold out on U-tec's own store in a late-October 2026 check, so confirm stock — Ultraloq's newer Bolt Pro, launched in September 2026 at $269.99 with Aliro wallet keys and built-in Wi-Fi alongside Thread, is the current in-stock successor if the $199.99 model is unavailable. Second, installation: a smart deadbolt needs precise door alignment, so check that your existing deadbolt throws smoothly by hand before you fit the new one.
+        </p>
         <h2 id="buying-rules">4. 4 Rules for a Subscription-Free, Cloud-Resilient Smart Home</h2>
         <ul>
           <li><strong>Rule 1: Never buy 2.4GHz Wi-Fi accessories in bulk.</strong> Use dedicated Thread mesh or Zigbee protocols to keep your home router responsive.</li>
@@ -420,8 +438,30 @@
 
         <h2 id="how-to-choose">5. How to Choose Your Local-First Setup</h2>
         <p>
-          Start with the easiest win: the Eve Energy plug at ~$39.95 needs no cloud account at all and adds energy monitoring to any device, which makes it the lowest-risk first step into local smart home gear. Next, replace the subscription device: the Reolink doorbell at ~$99.99 records 2K HDR video to local microSD with on-device human detection, removing a monthly fee you may already be paying. Finally, secure the door with the Ultraloq lock at ~$199.99, whose fingerprint recognition and Matter access work offline — the door still opens when the internet does not. The common thread is the protocol column of the table: Matter over Thread for the plug and lock, local storage standards for the doorbell, and no cloud account required anywhere.
+          Start with the easiest win: the Eve Energy plug at ~$39.95 needs no cloud account at all and adds energy monitoring to any device, which makes it the lowest-risk first step into local smart home gear. Next, replace the subscription device: the Reolink doorbell at ~$119.99 for the PoE version (~$149.99 for Wi-Fi) records 2K HDR video to local microSD with on-device human detection, removing a monthly fee you may already be paying. Finally, secure the door with the Ultraloq Bolt Fingerprint lock at ~$199.99, whose fingerprint recognition and Matter access work offline — the door still opens when the internet does not. The common thread is the protocol column of the table: Matter over Thread for the plug and lock, local storage standards for the doorbell, and no cloud account required anywhere.
         </p>
+
+
+        <h2 id="home-assistant-question">Do you need Home Assistant, or is Matter enough?</h2>
+        <p>
+          For most homes in this guide, Matter alone is enough — and that is the point of Matter. Apple Home, Google Home, SmartThings or Alexa can run the Eve plug and the Ultraloq lock with local automations, no extra server, and no monthly fee. Home Assistant earns its place one step later, when you want things Matter alone cannot do: a single dashboard that mixes the Reolink doorbell's RTSP stream with your Thread devices, automations with conditions Matter does not express ("lock the door only if nobody is home and it is after 10pm"), or energy dashboards built from the Eve plug's data. The honest trade is that Home Assistant is itself a hobby: it runs on a small computer you maintain, and its Matter and Thread support — including the Thread border router built into its Connect ZBT-1 adapter or a Home Assistant Yellow — is powerful but not plug-and-play. Start with Matter and your phone's home app; add Home Assistant when you have a specific automation in mind that your current app cannot build, not before.
+        </p>
+
+        <h2 id="what-to-buy">What we'd buy and why</h2>
+        <p>
+          Buy the Eve Energy first if you are starting from zero: at ~$39.95 it is the cheapest way into a local-first home, it strengthens the Thread mesh for everything you add later, and its energy monitoring pays for itself the first time it finds a device burning power overnight. Buy the Reolink doorbell next if you already pay a camera subscription — the PoE version at ~$119.99 replaces a monthly fee with a one-time purchase, and the maths gets better every month after. Buy the Ultraloq Bolt Fingerprint last, because a lock is the one device where installation quality matters as much as the product: fit it once, fit it well, and check the Matter version is in stock before you plan the weekend around it. If you already own a Thread border router — a HomePod mini, an Apple TV 4K, a Nest Hub — all three picks work on day one with nothing else to buy.
+        </p>
+
+        <h2 id="sources">Sources</h2>
+        <p>
+          This guide is spec-based desk research, not a hands-on lab test: we evaluated published manufacturer specifications, prices and compatibility claims against each other and against the sources below. No unit was lab-tested by SmartGearPick, and no measurement here is our own. Prices are from the manufacturers' own stores, November 2026.
+        </p>
+        <ul>
+          <li><a href="https://www.evehome.com/en/eve-energy" target="_blank" rel="noopener">Eve — Eve Energy (Matter over Thread smart plug &amp; power meter)</a></li>
+          <li><a href="https://reolink.com/us/product/reolink-video-doorbell-poe/" target="_blank" rel="noopener">Reolink — Video Doorbell PoE (2K+, local microSD/NVR, no monthly fees)</a></li>
+          <li><a href="https://ultraloq.com/products/bolt-pro" target="_blank" rel="noopener">Ultraloq — Bolt Pro (Matter over Thread; successor to the Bolt Fingerprint Matter)</a></li>
+          <li><a href="https://www.home-assistant.io/integrations/matter/" target="_blank" rel="noopener">Home Assistant — Matter integration</a></li>
+        </ul>
 
         <h2 id="faq">6. Frequently Asked Questions</h2>
         <h3>What is Matter over Thread, in plain terms?</h3>
