@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="Bar chart: battery life per charge for the Kindle Paperwhite 2026 (up to 12 weeks, from 199.99 dollars), Kindle 2026 (up to 6 weeks, from 149.99 dollars), Kindle Colorsoft 2026 (up to 8 weeks, from 289.99 dollars), Kobo Libra Colour (up to 40 days, 259.99 dollars) and Kobo Clara Colour (up to 42 days, 179.99 dollars)">
+  <rect x="8" y="8" width="744" height="384" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life per charge</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Weeks or days per charge — and what each pick costs</text>
+
+  <!-- Kindle Paperwhite 2026: up to 12 weeks, from $199.99 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Kindle Paperwhite 2026</text>
+  <rect x="250" y="100" width="280" height="26" rx="4" fill="#f08804"/>
+  <text x="538" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Up to 12 weeks</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $199.99</text>
+
+  <!-- Kindle 2026: up to 6 weeks, from $149.99 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Kindle 2026</text>
+  <rect x="250" y="152" width="140" height="26" rx="4" fill="#2563eb"/>
+  <text x="398" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Up to 6 weeks</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $149.99</text>
+
+  <!-- Kindle Colorsoft 2026: up to 8 weeks, from $289.99 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Kindle Colorsoft 2026</text>
+  <rect x="250" y="204" width="187" height="26" rx="4" fill="#2563eb"/>
+  <text x="445" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Up to 8 weeks</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $289.99</text>
+
+  <!-- Kobo Libra Colour: up to 40 days, $259.99 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Kobo Libra Colour</text>
+  <rect x="250" y="256" width="133" height="26" rx="4" fill="#2563eb"/>
+  <text x="391" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Up to 40 days</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$259.99</text>
+
+  <!-- Kobo Clara Colour: up to 42 days, $179.99 -->
+  <text x="28" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Kobo Clara Colour</text>
+  <rect x="250" y="308" width="140" height="26" rx="4" fill="#2563eb"/>
+  <text x="398" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Up to 42 days</text>
+  <text x="732" y="326" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$179.99</text>
+
+  <text x="28" y="362" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Battery figures as cited in the guide (Quick Summary Table); ratings assume ~30 min reading a day, wireless off.</text>
+  <text x="28" y="382" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as listed in the guide (Quick Summary Table), November 2026. Original chart by SmartGearPick.</text>
+</svg>

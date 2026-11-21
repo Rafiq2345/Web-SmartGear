@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="Bar chart: battery life per charge for the Apple Watch Series 12 (24 hours, from 399 dollars), Samsung Galaxy Watch 7 (30 to 40 hours, from 299 dollars), Google Pixel Watch 3 (24 to 36 hours, from 349 dollars), Garmin Venu 3 (14 days, 299.99 dollars on sale) and Amazfit Balance (14 days, about 199 dollars)">
+  <rect x="8" y="8" width="744" height="384" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life — days per charge</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Days per charge — and what each pick costs</text>
+
+  <!-- Apple Watch Series 12: up to 24 hrs, from $399 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Apple Watch Series 12</text>
+  <rect x="250" y="100" width="26" height="26" rx="4" fill="#2563eb"/>
+  <text x="284" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">24 hrs</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $399</text>
+
+  <!-- Samsung Galaxy Watch 7: 30-40 hrs, from $299 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Samsung Galaxy Watch 7</text>
+  <rect x="250" y="152" width="38" height="26" rx="4" fill="#2563eb"/>
+  <text x="296" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">30–40 hrs</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $299</text>
+
+  <!-- Google Pixel Watch 3: 24-36 hrs, from $349 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Google Pixel Watch 3</text>
+  <rect x="250" y="204" width="32" height="26" rx="4" fill="#2563eb"/>
+  <text x="290" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">24–36 hrs</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">From $349</text>
+
+  <!-- Garmin Venu 3: 14 days, $299.99 on sale (launched $449.99) -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Garmin Venu 3</text>
+  <rect x="250" y="256" width="360" height="26" rx="4" fill="#f08804"/>
+  <text x="618" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">14 days</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$299.99</text>
+
+  <!-- Amazfit Balance: 14 days, ~$199 -->
+  <text x="28" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Amazfit Balance</text>
+  <rect x="250" y="308" width="360" height="26" rx="4" fill="#f08804"/>
+  <text x="618" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">14 days</text>
+  <text x="732" y="326" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$199</text>
+
+  <text x="28" y="362" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Battery figures as cited in the guide (Quick Summary Table). Venu 3 launched at $449.99, on sale at $299.99 — re-checked 20 Nov 2026.</text>
+  <text x="28" y="382" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as listed in the guide (Quick Summary Table), November 2026. Original chart by SmartGearPick.</text>
+</svg>
