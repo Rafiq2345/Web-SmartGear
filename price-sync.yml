@@ -1,0 +1,91 @@
+# Amazon price sync — hourly
+#
+# STAGED ONLY. Do NOT push this file to the repo until the Creators API
+# credentials exist as repo secrets (see README.md in
+# scripts/price-updater/). Until then the sync step is skipped by the
+# `if:` guard below, so pushing it early would be harmless but pointless.
+#
+# Repo layout expected by this workflow (place on enablement):
+#   scripts/price-updater/price_sync.py   (stdlib-only, no pip installs)
+#   scripts/price-updater/asin-map.json   (built by build_asin_map.py)
+#   .github/workflows/price-sync.yml      (this file)
+#
+# What it does, once an hour:
+#   1. Runs price_sync.py with the repo secrets.
+#   2. The script fetches live Amazon prices (Creators API, OffersV2) and
+#      rewrites ONLY structured price fields (.product-price-est divs and
+#      comparison-table price cells). Prose is never touched.
+#   3. If any HTML file or the map changed, commits + pushes.
+#      The run log is uploaded as an artifact, NOT committed.
+#   4. If the API is down, the script exits 2 without changing anything,
+#      and the workflow fails loudly (visible in the Actions tab) while the
+#      site keeps its last verified prices.
+#
+# Amazon rules this respects:
+#   - Prices come only from the official API (no scraping).
+#   - Offers are re-fetched hourly (1h TTL per Amazon's developer docs).
+#   - Every changed page gets an HTML comment stamp with the check time.
+#   - If the schedule is ever relaxed below hourly, a VISIBLE
+#     "Prices checked <date>" line + disclaimer must be added next to
+#     prices (see README.md) — the comment stamp alone is not enough.
+
+name: Amazon price sync
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour, on the hour (UTC)
+  workflow_dispatch: # manual run, for testing after enablement
+
+permissions:
+  contents: write
+
+concurrency:
+  group: price-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync prices from Amazon Creators API
+        # Guard: skip (don't fail) until the secrets exist.
+        if: ${{ secrets.AMAZON_CLIENT_ID != '' && secrets.AMAZON_CLIENT_SECRET != '' }}
+        env:
+          AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
+          AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
+        run: |
+          python3 scripts/price-updater/price_sync.py \
+            --map scripts/price-updater/asin-map.json \
+            --repo . \
+            --log price-sync-log.json
+
+      - name: Commit + push if prices changed
+        if: ${{ secrets.AMAZON_CLIENT_ID != '' && secrets.AMAZON_CLIENT_SECRET != '' }}
+        run: |
+          git config user.name "smartgearpick-price-bot"
+          git config user.email "price-bot@smartgearpick.com"
+          # Only HTML + the map are committed. The run log is an artifact.
+          git add -A -- '*.html' 'scripts/price-updater/asin-map.json'
+          if git diff --cached --quiet; then
+            echo "No price changes."
+          else
+            git commit -m "chore: sync Amazon prices (Creators API, $(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: price-sync-log-${{ github.run_id }}
+          path: price-sync-log.json
+          if-no-files-found: ignore
+          retention-days: 30
