@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: buds-only battery life with ANC on for the Sony WF-1000XM6 (8 hours on AAC/SBC, about 299 dollars), Apple AirPods Pro 3 (8 hours, about 249 dollars), Nothing Ear 2024 (5.2 hours, about 69 dollars street price), and Anker Soundcore Space A40 (8 hours, about 79 dollars)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: buds-only battery life with ANC on for the Sony WF-1000XM6 (8 hours on AAC/SBC, 5 hours on LDAC, about 299 dollars), Apple AirPods Pro 3 (8 hours, about 249 dollars), Nothing Ear 2024 (5.2 hours, about 69 dollars street price), and Anker Soundcore Space A40 (8 hours, about 65 dollars street price)">
   <rect x="8" y="8" width="744" height="344" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
   <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life with ANC on — buds only</text>
   <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Hours per charge — and what each pick costs</text>
 
-  <!-- Sony WF-1000XM6: 8 hrs (AAC/SBC), ~$299 -->
+  <!-- Sony WF-1000XM6: 8 hrs (AAC/SBC; 5 hrs on LDAC), ~$299 -->
   <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Sony WF-1000XM6</text>
   <rect x="250" y="100" width="304" height="26" rx="4" fill="#2563eb"/>
-  <text x="562" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">8 hrs (AAC/SBC)</text>
+  <text x="562" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">8 hrs (AAC/SBC;<tspan x="562" dy="14">5 hrs on LDAC)</tspan></text>
   <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$299</text>
 
   <!-- Apple AirPods Pro 3: 8 hrs, ~$249 -->
@@ -21,12 +21,12 @@
   <text x="456" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">5.2 hrs</text>
   <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$69 street</text>
 
-  <!-- Anker Soundcore Space A40: 8 hrs, ~$79 -->
+  <!-- Anker Soundcore Space A40: 8 hrs, ~$65 street -->
   <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Anker Soundcore Space A40</text>
   <rect x="250" y="256" width="304" height="26" rx="4" fill="#f08804"/>
   <text x="638" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">8 hrs</text>
-  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$79</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$65</text>
 
-  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Battery figures as cited in the guide. Sony lists the XM6 at 8 hrs; SoundGuys measured 9 hrs 41 min on a single charge.</text>
+  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Battery figures as cited in the guide. Sony lists the XM6 at 8 hrs on AAC/SBC, 5 hrs on LDAC; SoundGuys measured 9 hrs 41 min.</text>
   <text x="28" y="332" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices are street / sale prices, November 2026. Original chart by SmartGearPick.</text>
 </svg>
