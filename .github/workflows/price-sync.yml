@@ -1,11 +1,6 @@
 # Amazon price sync — hourly
 #
-# STAGED ONLY. Do NOT push this file to the repo until the Creators API
-# credentials exist as repo secrets (see README.md in
-# scripts/price-updater/). Until then the sync step is skipped by the
-# `if:` guard below, so pushing it early would be harmless but pointless.
-#
-# Repo layout expected by this workflow (place on enablement):
+# Repo layout expected by this workflow:
 #   scripts/price-updater/price_sync.py   (stdlib-only, no pip installs)
 #   scripts/price-updater/asin-map.json   (built by build_asin_map.py)
 #   .github/workflows/price-sync.yml      (this file)
