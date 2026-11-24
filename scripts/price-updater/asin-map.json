@@ -1,0 +1,4767 @@
+{
+  "generated_at_utc": "2026-11-24T06:12:28Z",
+  "source": "live sitemap fetch 2026-11-24 (61 pages, curl + Chrome UA)",
+  "partner_tag": "smartgearpi0a-20",
+  "marketplace": "www.amazon.com",
+  "totals": {
+    "pages_scanned": 61,
+    "products": 134,
+    "amazon_links_total": 167,
+    "dp_links_distinct_asins": 12,
+    "products_with_amazon_link_needing_asin_resolution": 104,
+    "products_with_structured_fields_but_no_amazon_link": 18,
+    "structured_fields": 248,
+    "auto_updatable_fields": 164,
+    "range_fields_manual_only": 76,
+    "structured_fields_holding_no_price": 8,
+    "products_price_only_in_prose": 0,
+    "unassociated_amazon_links": 43,
+    "prose_price_mentions_total": 1193
+  },
+  "products": [
+    {
+      "product": "Amazon Echo Ecosystem (Alexa AI)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Amazon Echo Smart Speaker",
+      "search_keywords_source": "comparisons/amazon-echo-vs-google-nest.html",
+      "pages": [
+        "comparisons/amazon-echo-vs-google-nest.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "amazon-echo",
+          "current": "From $39.99 (Echo Pop) to $499.99 (Echo Show 16) — Echo Dot 5th Gen $79.99 ($44.99 in the Black Friday sale) · new Echo Dot $99.99 · Echo Dot Max $119.99 · Echo Hub $179.99 · Echo Show 8 (4th Gen, 2025) $199.99 · Show 11 $249.99 · Show 15 $349.99",
+          "current_price": 39.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "comparisons/amazon-echo-vs-google-nest.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Google Nest Ecosystem (Gemini AI)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Google Nest Hub",
+      "search_keywords_source": "comparisons/amazon-echo-vs-google-nest.html",
+      "pages": [
+        "comparisons/amazon-echo-vs-google-nest.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "google-nest",
+          "current": "From $99.99 (Google Home Speaker) — Nest Mini discontinued June 2026; Nest Hub 2nd Gen sold out at the Google Store; Nest Hub Max leftover stock ~$139.99",
+          "current_price": 99.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "comparisons/amazon-echo-vs-google-nest.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple iPhone 18 Pro",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "comparisons/iphone-18-pro-vs-iphone-17-pro.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "$1,199",
+          "current_price": 1199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "comparisons/iphone-18-pro-vs-iphone-17-pro.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple iPhone 17 Pro",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple iPhone 17 Pro",
+      "search_keywords_source": "guides/best-smartphones.html",
+      "pages": [
+        "comparisons/iphone-18-pro-vs-iphone-17-pro.html",
+        "guides/best-smartphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "$1,099",
+          "current_price": 1099.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "comparisons/iphone-18-pro-vs-iphone-17-pro.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "iphone-pro",
+          "current": "From $1,099",
+          "current_price": 1099.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple iPhone 17 Pro",
+          "current": "$1,099",
+          "current_price": 1099.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy Z Fold 7",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "comparisons/iphone-fold-vs-galaxy-z-fold-7.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "From $1,999",
+          "current_price": 1999.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "comparisons/iphone-fold-vs-galaxy-z-fold-7.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple iPhone Duo (Announced Sep 9, 2026)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "comparisons/iphone-fold-vs-galaxy-z-fold-7.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "From $1,999 (256GB)",
+          "current_price": 1999.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "comparisons/iphone-fold-vs-galaxy-z-fold-7.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony WF-1000XM6",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html",
+        "guides/best-wireless-earbuds.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "$329.99 list ($299.99 on sale at Sony, Nov 2026)",
+          "current_price": 329.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Sony WF-1000XM6",
+          "current": "Best Flagship for Android",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple AirPods Pro 3",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html",
+        "guides/best-wireless-earbuds.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Price",
+          "current": "$249.00",
+          "current_price": 249.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple AirPods Pro 3",
+          "current": "Best Flagship for iPhone",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "JBL Charge 6 & Flip 7",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "JBL Charge 6",
+      "search_keywords_source": "guides/best-bluetooth-speakers.html",
+      "pages": [
+        "guides/best-bluetooth-speakers.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "",
+          "current": "$149.95 – $199.95",
+          "current_price": 149.95,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-bluetooth-speakers.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "JBL Charge 6 / Flip 7",
+          "current": "$149.95 – $199.95",
+          "current_price": 149.95,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-bluetooth-speakers.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Bose SoundLink Max",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Bose SoundLink Max",
+      "search_keywords_source": "guides/best-bluetooth-speakers.html",
+      "pages": [
+        "guides/best-bluetooth-speakers.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "bose-soundlink-max",
+          "current": "~$399.00",
+          "current_price": 399.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-bluetooth-speakers.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Bose SoundLink Max",
+          "current": "~$399",
+          "current_price": 399.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-bluetooth-speakers.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Marshall Emberton II",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Marshall Emberton II",
+      "search_keywords_source": "guides/best-bluetooth-speakers.html",
+      "pages": [
+        "guides/best-bluetooth-speakers.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "marshall-emberton-2",
+          "current": "~$169.99",
+          "current_price": 169.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-bluetooth-speakers.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Marshall Emberton II",
+          "current": "~$169",
+          "current_price": 169.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-bluetooth-speakers.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Soundcore Motion Boom Plus",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Anker Soundcore Motion Boom Plus",
+      "search_keywords_source": "guides/best-bluetooth-speakers.html",
+      "pages": [
+        "guides/best-bluetooth-speakers.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "soundcore-motion-boom",
+          "current": "$179.99 list (often ~$159.99 on sale)",
+          "current_price": 179.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-bluetooth-speakers.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker Soundcore Motion Boom Plus",
+          "current": "$179.99 list",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-bluetooth-speakers.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Lenovo IdeaPad 1 14-inch",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Lenovo IdeaPad 1 Intel N100 8GB",
+      "search_keywords_source": "guides/best-budget-laptops-under-300.html",
+      "pages": [
+        "guides/best-budget-laptops-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "lenovo-ideapad-1",
+          "current": "~$249.99",
+          "current_price": 249.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Lenovo IdeaPad 1",
+          "current": "~$249",
+          "current_price": 249.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Acer Chromebook Spin 311",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Acer Chromebook Spin 311",
+      "search_keywords_source": "guides/best-budget-laptops-under-300.html",
+      "pages": [
+        "guides/best-budget-laptops-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "acer-spin-311",
+          "current": "~$219.99",
+          "current_price": 219.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Acer Chromebook Spin 311",
+          "current": "~$219",
+          "current_price": 219.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "HP 14-inch Laptop (Intel N200)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "HP 14 laptop Intel N200",
+      "search_keywords_source": "guides/best-budget-laptops-under-300.html",
+      "pages": [
+        "guides/best-budget-laptops-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "hp-14",
+          "current": "~$279.99",
+          "current_price": 279.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "HP 14-inch Laptop",
+          "current": "~$279",
+          "current_price": 279.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-laptops-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "ASUS Chromebook CM14",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "ASUS Chromebook CM14",
+      "search_keywords_source": "guides/best-budget-laptops-under-300.html",
+      "pages": [
+        "guides/best-budget-laptops-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "asus-chromebook-cm14",
+          "current": "~$172–$180",
+          "current_price": 172.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-laptops-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "ASUS Chromebook CM14",
+          "current": "~$172–$180",
+          "current_price": 172.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-laptops-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy A15 5G",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy A15 5G unlocked",
+      "search_keywords_source": "guides/best-budget-smartphones-under-200.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-a15",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy A15 5G",
+          "current": "~$199",
+          "current_price": 199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Moto G Play 5G (2026)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Moto G Play 5G unlocked",
+      "search_keywords_source": "guides/best-budget-smartphones-under-200.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "moto-g-play",
+          "current": "$179.99",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Moto G Play 5G (2026)",
+          "current": "~$179.99",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Xiaomi Redmi Note 13 (4G)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Xiaomi Redmi Note 13 unlocked",
+      "search_keywords_source": "guides/best-budget-smartphones-under-200.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "redmi-note-13",
+          "current": "~$179.99",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Xiaomi Redmi Note 13 (4G)",
+          "current": "~$179",
+          "current_price": 179.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "TCL 50 XE 5G",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "TCL 50 XE 5G",
+      "search_keywords_source": "guides/best-budget-smartphones-under-200.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "tcl-50-xe",
+          "current": "~$149",
+          "current_price": 149.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "TCL 50 XE 5G",
+          "current": "~$149",
+          "current_price": 149.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy A26 5G",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy A26 5G",
+      "search_keywords_source": "guides/best-budget-smartphones-under-300.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-300.html",
+        "guides/best-smartphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-a26",
+          "current": "List $299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy A26 5G",
+          "current": "List $299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-a26",
+          "current": "List $299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy A26 5G",
+          "current": "List $299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "CMF Phone 1 (by Nothing)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "CMF Phone 1",
+      "search_keywords_source": "guides/best-budget-smartphones-under-300.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "cmf-phone-1",
+          "current": "~$199.00",
+          "current_price": 199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "CMF Phone 1 (by Nothing)",
+          "current": "~$199–$239",
+          "current_price": 199.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Moto G Power 5G (2025)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Moto G Power 5G",
+      "search_keywords_source": "guides/best-budget-smartphones-under-300.html",
+      "pages": [
+        "guides/best-budget-smartphones-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "moto-g-power",
+          "current": "$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Moto G Power 5G (2025)",
+          "current": "$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-smartphones-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy Tab A11+ Wi-Fi (128GB)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy Tab A11 Plus WiFi 128GB",
+      "search_keywords_source": "guides/best-budget-tablets-under-300.html",
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-tab-a11-plus",
+          "current": "Est. ~$200–$225 (recently as low as $199.99)",
+          "current_price": 200.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy Tab A11+ (Wi-Fi, 128GB)",
+          "current": "list $299.99; street ~$200–$225 (recently as low as $199.99)",
+          "current_price": 299.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Lenovo Idea Tab 11-inch (128GB)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Lenovo Idea Tab 11 inch 128GB",
+      "search_keywords_source": "guides/best-budget-tablets-under-300.html",
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "lenovo-idea-tab",
+          "current": "Est. $269.99 list; $199.99 current sale",
+          "current_price": 269.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Amazon Alexa Tablet 8",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Amazon Alexa Tablet 8",
+      "search_keywords_source": "guides/best-budget-tablets-under-300.html",
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "alexa-tablet-8",
+          "current": "Est. $229.99 list; $129.99–$149.99 in the Black Friday sale",
+          "current_price": 229.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Amazon Alexa Tablet 8",
+          "current": "$229.99 list; $129.99–$149.99 BF sale",
+          "current_price": 229.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Amazon Fire HD 10 (2023)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Amazon Fire HD 10 2023",
+      "search_keywords_source": "guides/best-budget-tablets-under-300.html",
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "fire-hd-10",
+          "current": "Est. $154.99 list; $72.99 Prime sale",
+          "current_price": 154.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Amazon Fire HD 10 (2023)",
+          "current": "$154.99 list; $72.99 Prime sale",
+          "current_price": 154.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Amazon Fire Max 11",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Amazon Fire Max 11",
+      "search_keywords_source": "guides/best-budget-tablets-under-300.html",
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "fire-max-11",
+          "current": "Est. $229.99 list (clearance)",
+          "current_price": 229.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-tablets-under-300.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Amazon Fire Max 11",
+          "current": "$229.99 list (clearance)",
+          "current_price": 229.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Lenovo Idea Tab (11″, 128GB)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-budget-tablets-under-300.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Lenovo Idea Tab (11″, 128GB)",
+          "current": "$269.99 list; $199.99 current sale",
+          "current_price": 269.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-budget-tablets-under-300.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony Alpha 7 IV (A7 IV)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Sony A7 IV",
+      "search_keywords_source": "guides/best-cameras-reviewed.html",
+      "pages": [
+        "guides/best-cameras-reviewed.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "sony-a7iv",
+          "current": "From ~$1,999.99 (Body Only)",
+          "current_price": 1999.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Canon EOS R6 Mark II",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Canon EOS R6 Mark II",
+      "search_keywords_source": "guides/best-cameras-reviewed.html",
+      "pages": [
+        "guides/best-cameras-reviewed.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "canon-r6ii",
+          "current": "From ~$1,999 (Body Only)",
+          "current_price": 1999.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Canon EOS R6 Mark II",
+          "current": "~$1,999",
+          "current_price": 1999.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Fujifilm X-T5",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Fujifilm X-T5",
+      "search_keywords_source": "guides/best-cameras-reviewed.html",
+      "pages": [
+        "guides/best-cameras-reviewed.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "fujifilm-xt5",
+          "current": "From $1,999.95 (Body Only)",
+          "current_price": 1999.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Fujifilm X-T5",
+          "current": "$1,999.95",
+          "current_price": 1999.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony A7 IV",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-cameras-reviewed.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Sony A7 IV",
+          "current": "~$1,999.99",
+          "current_price": 1999.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras-reviewed.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony ZV-E10 II",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Sony ZV-E10 II",
+      "search_keywords_source": "guides/best-cameras.html",
+      "pages": [
+        "guides/best-cameras.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "sony-zve10ii",
+          "current": "From ~$1,099 (with 16-50mm kit lens); $999 body only",
+          "current_price": 1099.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-cameras.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Sony ZV-E10 II",
+          "current": "~$1,099 (w/ 16-50mm kit lens); $999 body only",
+          "current_price": 1099.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-cameras.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Fujifilm X-S20",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Fujifilm X-S20",
+      "search_keywords_source": "guides/best-cameras.html",
+      "pages": [
+        "guides/best-cameras.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "fujifilm-xs20",
+          "current": "From $1,499.95 (Body only; $1,399.95 on sale)",
+          "current_price": 1499.95,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-cameras.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Fujifilm X-S20",
+          "current": "$1,499.95 (Body Only)",
+          "current_price": 1499.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-cameras.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Kindle Paperwhite 2026",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Kindle Paperwhite 2026",
+      "search_keywords_source": "guides/best-e-readers-in-2026.html",
+      "pages": [
+        "guides/best-e-readers-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "kindle-paperwhite-2026",
+          "current": "From $199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Kindle Paperwhite 2026",
+          "current": "From $199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Kindle 2026",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Kindle 2026",
+      "search_keywords_source": "guides/best-e-readers-in-2026.html",
+      "pages": [
+        "guides/best-e-readers-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "kindle-2026",
+          "current": "From $149.99",
+          "current_price": 149.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Kindle 2026",
+          "current": "From $149.99",
+          "current_price": 149.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Kindle Colorsoft 2026",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Kindle Colorsoft 2026",
+      "search_keywords_source": "guides/best-e-readers-in-2026.html",
+      "pages": [
+        "guides/best-e-readers-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "kindle-colorsoft-2026",
+          "current": "From $289.99",
+          "current_price": 289.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Kindle Colorsoft 2026",
+          "current": "From $289.99",
+          "current_price": 289.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Kobo Libra Colour",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Kobo Libra Colour",
+      "search_keywords_source": "guides/best-e-readers-in-2026.html",
+      "pages": [
+        "guides/best-e-readers-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "kobo-libra-colour",
+          "current": "$259.99",
+          "current_price": 259.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Kobo Libra Colour",
+          "current": "$259.99",
+          "current_price": 259.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Kobo Clara Colour",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Kobo Clara Colour",
+      "search_keywords_source": "guides/best-e-readers-in-2026.html",
+      "pages": [
+        "guides/best-e-readers-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "kobo-clara-colour",
+          "current": "$179.99",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Kobo Clara Colour",
+          "current": "$179.99",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-e-readers-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Elgato Wave Neo USB Microphone",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Elgato Wave Neo USB Microphone",
+      "search_keywords_source": "guides/best-gaming-accessories-under-100.html",
+      "pages": [
+        "guides/best-gaming-accessories-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "elgato-wave-neo",
+          "current": "~$79.99",
+          "current_price": 79.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Elgato Wave Neo",
+          "current": "~$79",
+          "current_price": 79.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Aula F75 (Epomaker)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Aula F75",
+      "search_keywords_source": "guides/best-gaming-accessories-under-100.html",
+      "pages": [
+        "guides/best-gaming-accessories-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "aula-f75",
+          "current": "~$69.99",
+          "current_price": 69.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Pulsar X2V2 Wireless",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Pulsar X2V2 Wireless",
+      "search_keywords_source": "guides/best-gaming-accessories-under-100.html",
+      "pages": [
+        "guides/best-gaming-accessories-under-100.html",
+        "guides/best-gaming-mouse.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "pulsar-x2v2",
+          "current": "~$99",
+          "current_price": 99.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Pulsar X2V2 Wireless",
+          "current": "~$99",
+          "current_price": 99.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "pulsar-x2v2",
+          "current": "~$99",
+          "current_price": 99.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Pulsar X2V2 Wireless",
+          "current": "~$99",
+          "current_price": 99.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "SteelSeries QcK Heavy XXL",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "SteelSeries QcK Heavy XXL",
+      "search_keywords_source": "guides/best-gaming-accessories-under-100.html",
+      "pages": [
+        "guides/best-gaming-accessories-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "steelseries-qck",
+          "current": "$34.99 (black) / $39.99 (white, magenta) list (XXL); sale ~$26–$30",
+          "current_price": 34.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "SteelSeries QcK Heavy XXL",
+          "current": "~$34.99 (black) / $39.99 (white, magenta) list; sale ~$26–$30",
+          "current_price": 34.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Aula F75 (by Epomaker)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-gaming-accessories-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Aula F75 (by Epomaker)",
+          "current": "~$69",
+          "current_price": 69.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-accessories-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "HyperX Cloud III Wired",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "HyperX Cloud III Wired",
+      "search_keywords_source": "guides/best-gaming-headsets-under-100.html",
+      "pages": [
+        "guides/best-gaming-headsets-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "hyperX-cloud-3",
+          "current": "~$58–$70 (list $99.99)",
+          "current_price": 58.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "HyperX Cloud III",
+          "current": "~$58–$70",
+          "current_price": 58.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Razer BlackShark V2 X",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Razer BlackShark V2 X",
+      "search_keywords_source": "guides/best-gaming-headsets-under-100.html",
+      "pages": [
+        "guides/best-gaming-headsets-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "razer-blackshark-v2x",
+          "current": "~$49.99",
+          "current_price": 49.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Razer BlackShark V2 X",
+          "current": "~$49",
+          "current_price": 49.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "SteelSeries Arctis Nova 1",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "SteelSeries Arctis Nova 1",
+      "search_keywords_source": "guides/best-gaming-headsets-under-100.html",
+      "pages": [
+        "guides/best-gaming-headsets-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "steelseries-nova-1",
+          "current": "~$59.99",
+          "current_price": 59.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "SteelSeries Arctis Nova 1",
+          "current": "~$59",
+          "current_price": 59.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Corsair HS65 Surround",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Corsair HS65 Surround",
+      "search_keywords_source": "guides/best-gaming-headsets-under-100.html",
+      "pages": [
+        "guides/best-gaming-headsets-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "corsair-hs65",
+          "current": "~$69",
+          "current_price": 69.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Corsair HS65 Surround",
+          "current": "~$69",
+          "current_price": 69.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-headsets-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Logitech G Pro X Superlight 2",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Logitech G Pro X Superlight 2",
+      "search_keywords_source": "guides/best-gaming-mouse.html",
+      "pages": [
+        "guides/best-gaming-mouse.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "logitech-superlight-2",
+          "current": "~$159.99",
+          "current_price": 159.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Logitech G Pro X Superlight 2",
+          "current": "~$159",
+          "current_price": 159.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Razer DeathAdder V3 Pro",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Razer DeathAdder V3 Pro",
+      "search_keywords_source": "guides/best-gaming-mouse.html",
+      "pages": [
+        "guides/best-gaming-mouse.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "razer-deathadder-v3",
+          "current": "~$149.99",
+          "current_price": 149.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Razer DeathAdder V3 Pro",
+          "current": "~$149",
+          "current_price": 149.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Razer Viper V3 Pro",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Razer Viper V3 Pro",
+      "search_keywords_source": "guides/best-gaming-mouse.html",
+      "pages": [
+        "guides/best-gaming-mouse.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "razer-viper-v3",
+          "current": "~$159.99",
+          "current_price": 159.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Razer Viper V3 Pro",
+          "current": "~$159",
+          "current_price": 159.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-gaming-mouse.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Rain Design mStand Aluminum Riser",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Rain Design mStand Laptop Stand",
+      "search_keywords_source": "guides/best-laptop-stands.html",
+      "pages": [
+        "guides/best-laptop-stands.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "rain-design-mstand",
+          "current": "From ~$39 (Varies by color finish)",
+          "current_price": 39.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptop-stands.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Rain Design mStand",
+          "current": "~$39",
+          "current_price": 39.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptop-stands.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Roost V3 Ultra-Portable Laptop Stand",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Roost V3 Laptop Stand",
+      "search_keywords_source": "guides/best-laptop-stands.html",
+      "pages": [
+        "guides/best-laptop-stands.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "roost-v3",
+          "current": "From ~$79 (Includes ripstop travel sleeve)",
+          "current_price": 79.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptop-stands.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Roost V3 Ultra-Portable",
+          "current": "~$79",
+          "current_price": 79.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptop-stands.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Nulaxy C3 Ergonomic Laptop Riser",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Nulaxy C3 Laptop Stand",
+      "search_keywords_source": "guides/best-laptop-stands.html",
+      "pages": [
+        "guides/best-laptop-stands.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "nulaxy-c3",
+          "current": "From ~$15.29 (list $17.99; budget-friendly value)",
+          "current_price": 15.29,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptop-stands.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Nulaxy C3 Ergonomic Riser",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-laptop-stands.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Nulaxy C3 Ergonomic Riser",
+          "current": "~$15.29",
+          "current_price": 15.29,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptop-stands.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple MacBook Air M5 (13-inch)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple MacBook Air M5",
+      "search_keywords_source": "guides/best-laptops-for-students.html",
+      "pages": [
+        "guides/best-laptops-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "macbook-air",
+          "current": "From $1,299 list ($1,199 w/ Apple Education Discount) — launched at $1,099 in March 2026; sales bring it back to ~$1,099",
+          "current_price": 1299.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple MacBook Air M5",
+          "current": "$1,299 list ($1,199 w/ Edu Discount; launched at $1,099)",
+          "current_price": 1299.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Lenovo Yoga 7i (14-inch)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Lenovo Yoga 7i",
+      "search_keywords_source": "guides/best-laptops-for-students.html",
+      "pages": [
+        "guides/best-laptops-for-students.html",
+        "guides/best-laptops-under-1000.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "lenovo-yoga-7i",
+          "current": "From ~$849–$899 (Configuration pricing fluctuates)",
+          "current_price": 849.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Lenovo Yoga 7i (14-inch)",
+          "current": "~$899",
+          "current_price": 899.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-for-students.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "lenovo-yoga-7i",
+          "current": "~$899",
+          "current_price": 899.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-under-1000.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Lenovo Yoga 7i",
+          "current": "~$899",
+          "current_price": 899.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-under-1000.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Acer Swift Go 14",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Acer Swift Go 14",
+      "search_keywords_source": "guides/best-laptops-for-students.html",
+      "pages": [
+        "guides/best-laptops-for-students.html",
+        "guides/best-laptops-under-1000.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "acer-swift-go",
+          "current": "From ~$799–$849 (Frequent student discounts)",
+          "current_price": 799.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Acer Swift Go 14",
+          "current": "~$849",
+          "current_price": 849.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Acer Swift Go 14",
+          "current": "~$649–$799",
+          "current_price": 649.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "ASUS ROG Zephyrus G14",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-laptops-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "ASUS ROG Zephyrus G14",
+          "current": "~$1,499",
+          "current_price": 1499.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Lenovo IdeaPad Flex 5i",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-laptops-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Lenovo IdeaPad Flex 5i",
+          "current": "~$379",
+          "current_price": 379.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-laptops-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Acer Swift Go 14 OLED",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Acer Swift Go 14",
+      "search_keywords_source": "guides/best-laptops-under-1000.html",
+      "pages": [
+        "guides/best-laptops-under-1000.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "acer-swift-go",
+          "current": "~$649 (Black Friday, Best Buy) to ~$799; typically $759–$799 outside Black Friday",
+          "current_price": 649.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "ASUS TUF Gaming A15",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "ASUS TUF Gaming A15",
+      "search_keywords_source": "guides/best-laptops-under-1000.html",
+      "pages": [
+        "guides/best-laptops-under-1000.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "asus-tuf-a15",
+          "current": "~$1,099–$1,639",
+          "current_price": 1099.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "ASUS TUF Gaming A15",
+          "current": "~$1,099–$1,639",
+          "current_price": 1099.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple MacBook Air M2 (16GB SKU)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple MacBook Air M2",
+      "search_keywords_source": "guides/best-laptops-under-1000.html",
+      "pages": [
+        "guides/best-laptops-under-1000.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "macbook-air-m2",
+          "current": "Clearance (~$899–$999)",
+          "current_price": 899.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple MacBook Air M2",
+          "current": "Clearance (~$899–$999)",
+          "current_price": 899.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-laptops-under-1000.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Keychron Q1 Max (75% Wireless)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Keychron Q1 Max",
+      "search_keywords_source": "guides/best-mechanical-keyboards.html",
+      "pages": [
+        "guides/best-mechanical-keyboards.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "keychron-q1-max",
+          "current": "From $229.99 (Fully assembled MSRP)",
+          "current_price": 229.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-mechanical-keyboards.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Keychron Q1 Max",
+          "current": "$229.99",
+          "current_price": 229.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-mechanical-keyboards.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Wooting 60HE v2 Hall Effect",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Wooting 60HE v2",
+      "search_keywords_source": "guides/best-mechanical-keyboards.html",
+      "pages": [
+        "guides/best-mechanical-keyboards.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "wooting-60he",
+          "current": "From $179.99 (plastic prebuilt; $239.99 aluminum)",
+          "current_price": 179.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-mechanical-keyboards.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Wooting 60HE v2",
+          "current": "$179.99 (plastic prebuilt)",
+          "current_price": 179.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-mechanical-keyboards.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Epomaker Galaxy80 (TKL Wireless)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Epomaker Galaxy80",
+      "search_keywords_source": "guides/best-mechanical-keyboards.html",
+      "pages": [
+        "guides/best-mechanical-keyboards.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "epomaker-galaxy80",
+          "current": "From ~$99–$109 (Budget aluminum value)",
+          "current_price": 99.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-mechanical-keyboards.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Epomaker Galaxy80",
+          "current": "~$109",
+          "current_price": 109.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-mechanical-keyboards.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony WH-1000XM6 Wireless Noise-Cancelling Headphones",
+      "asin": "B0GPT1FJBD",
+      "asin_source": "guides/best-noise-cancelling-headphones.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-noise-cancelling-headphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "sony-wh1000xm6",
+          "current": "Premium Flagship Tier",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-noise-cancelling-headphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Bose QuietComfort Ultra Headphones (2nd Gen)",
+      "asin": "B0FDKR293G",
+      "asin_source": "guides/best-noise-cancelling-headphones.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-noise-cancelling-headphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "bose-qc-ultra-2",
+          "current": "Premium Travel Tier",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-noise-cancelling-headphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sennheiser Momentum 4 Wireless",
+      "asin": "B0CQ2TBSPV",
+      "asin_source": "guides/best-noise-cancelling-headphones.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-noise-cancelling-headphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "sennheiser-momentum-4",
+          "current": "Performance Audio Tier",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-noise-cancelling-headphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "JBL Tour One M3 Wireless Headphones",
+      "asin": "B0DWT9XPLS",
+      "asin_source": "guides/best-noise-cancelling-headphones.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-noise-cancelling-headphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "jbl-tour-one-m3",
+          "current": "Productivity & Business Tier",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-noise-cancelling-headphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Soundcore Space Q45 Wireless ANC Headphones",
+      "asin": "B0B5VHRX7F",
+      "asin_source": "guides/best-noise-cancelling-headphones.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-noise-cancelling-headphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "soundcore-space-q45",
+          "current": "Budget-Friendly Value Tier",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-noise-cancelling-headphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Prime 20,000mAh (200W Output)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Anker Prime Power Bank",
+      "search_keywords_source": "guides/best-power-banks.html",
+      "pages": [
+        "guides/best-power-banks.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "anker-prime-200w",
+          "current": "From ~$119–$129 (Premium GaN charger)",
+          "current_price": 119.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-power-banks.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker Prime 20,000mAh",
+          "current": "~$129",
+          "current_price": 129.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-power-banks.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Baseus Blade HD 100W Ultra-Slim",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Baseus Blade 100W Power Bank",
+      "search_keywords_source": "guides/best-power-banks.html",
+      "pages": [
+        "guides/best-power-banks.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "baseus-blade-100w",
+          "current": "From ~$63–$70 street (Blade HD $69.99 at Baseus; the original Blade lists at $129.99)",
+          "current_price": 63.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-power-banks.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Baseus Blade HD 100W",
+          "current": "~$63–$70",
+          "current_price": 63.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-power-banks.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Nano Power Bank (30W Built-in Cable)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Anker Nano Power Bank 30W",
+      "search_keywords_source": "guides/best-power-banks.html",
+      "pages": [
+        "guides/best-power-banks.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "anker-nano-30w",
+          "current": "From ~$35–$39 (Budget pocket charger)",
+          "current_price": 35.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-power-banks.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Nano 30W",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-power-banks.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker Nano 30W",
+          "current": "~$39",
+          "current_price": 39.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-power-banks.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Roborock S8 MaxV Ultra",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Roborock S8 MaxV Ultra",
+      "search_keywords_source": "guides/best-robot-vacuums.html",
+      "pages": [
+        "guides/best-robot-vacuums.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "roborock-s8",
+          "current": "~$799.99 (currently out of stock at Roborock's US store)",
+          "current_price": 799.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-robot-vacuums.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Roborock S8 MaxV Ultra",
+          "current": "~$799.99",
+          "current_price": 799.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-robot-vacuums.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Dreame L20 Ultra",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Dreame L20 Ultra",
+      "search_keywords_source": "guides/best-robot-vacuums.html",
+      "pages": [
+        "guides/best-robot-vacuums.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "dreame-l20",
+          "current": "Superseded — street ~$450–$650 when available",
+          "current_price": 450.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Dreame L20 Ultra",
+          "current": "Superseded — street ~$450–$650 when available",
+          "current_price": 450.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Eufy X10 Pro Omni",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Eufy X10 Pro Omni",
+      "search_keywords_source": "guides/best-robot-vacuums.html",
+      "pages": [
+        "guides/best-robot-vacuums.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "eufy-x10",
+          "current": "~$699.99 new on Amazon (launch list $799.99; sale as low as ~$449.99)",
+          "current_price": 699.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Eufy X10 Pro Omni",
+          "current": "~$699.99 new on Amazon (launch list $799.99; sale as low as ~$449.99)",
+          "current_price": 699.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "iRobot Roomba Combo j9+",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "iRobot Roomba Combo j9",
+      "search_keywords_source": "guides/best-robot-vacuums.html",
+      "pages": [
+        "guides/best-robot-vacuums.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "roomba-j9",
+          "current": "~$800–$900 street price",
+          "current_price": 800.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "iRobot Roomba Combo j9+",
+          "current": "~$800–$900",
+          "current_price": 800.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-robot-vacuums.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Google Nest Hub (2nd Gen) / Amazon Echo Show 8",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Echo Show 8 smart display",
+      "search_keywords_source": "guides/best-smart-home-devices.html",
+      "pages": [
+        "guides/best-smart-home-devices.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "smart-hub",
+          "current": "$99 – $149",
+          "current_price": 99.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smart-home-devices.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Google Nest Hub (2nd Gen) / Amazon Echo Show 8",
+          "current": "$99 – $149",
+          "current_price": 99.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smart-home-devices.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Philips Hue Smart Lighting Starter Kit",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Philips Hue White and Color Ambiance Starter Kit",
+      "search_keywords_source": "guides/best-smart-home-devices.html",
+      "pages": [
+        "guides/best-smart-home-devices.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "philips-hue",
+          "current": "From ~$149.99 (Bridge Pro + 3 Bulbs)",
+          "current_price": 149.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smart-home-devices.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Ecobee Smart Thermostat Premium",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Ecobee Smart Thermostat Premium",
+      "search_keywords_source": "guides/best-smart-home-devices.html",
+      "pages": [
+        "guides/best-smart-home-devices.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ecobee-thermostat",
+          "current": "From ~$249.99",
+          "current_price": 249.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smart-home-devices.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ecobee Smart Thermostat Premium",
+          "current": "~$249",
+          "current_price": 249.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smart-home-devices.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Philips Hue Starter Kit",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-smart-home-devices.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Philips Hue Starter Kit",
+          "current": "~$149.99",
+          "current_price": 149.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smart-home-devices.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy A36 5G",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy A36 5G",
+      "search_keywords_source": "guides/best-smartphones-under-400.html",
+      "pages": [
+        "guides/best-smartphones-under-400.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-a36",
+          "current": "$399.99",
+          "current_price": 399.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones-under-400.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy A36 5G",
+          "current": "$399.99",
+          "current_price": 399.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones-under-400.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Google Pixel 8a",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Google Pixel 8a",
+      "search_keywords_source": "guides/best-smartphones-under-400.html",
+      "pages": [
+        "guides/best-smartphones-under-400.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "pixel-8a",
+          "current": "~$299 new; $339 Google refurb",
+          "current_price": 299.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartphones-under-400.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Google Pixel 8a / 7a",
+          "current": "~$299 new; $339 refurb",
+          "current_price": 299.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartphones-under-400.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Nothing Phone (2a)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Nothing Phone 2a",
+      "search_keywords_source": "guides/best-smartphones-under-400.html",
+      "pages": [
+        "guides/best-smartphones-under-400.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "nothing-2a",
+          "current": "~$349.00",
+          "current_price": 349.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones-under-400.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Nothing Phone (2a)",
+          "current": "~$349",
+          "current_price": 349.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones-under-400.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Moto G Stylus 5G",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Moto G Stylus 5G",
+      "search_keywords_source": "guides/best-smartphones-under-400.html",
+      "pages": [
+        "guides/best-smartphones-under-400.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "moto-g-stylus",
+          "current": "On sale $299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones-under-400.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Moto G Stylus 5G",
+          "current": "Sale $299.99 (list $399.99)",
+          "current_price": 299.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartphones-under-400.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy S25 Ultra",
+      "search_keywords_source": "guides/best-smartphones.html",
+      "pages": [
+        "guides/best-smartphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-ultra",
+          "current": "From $1,299.99",
+          "current_price": 1299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy S25 Ultra",
+          "current": "$1,299.99",
+          "current_price": 1299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Google Pixel 9",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Google Pixel 9",
+      "search_keywords_source": "guides/best-smartphones.html",
+      "pages": [
+        "guides/best-smartphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "pixel-9",
+          "current": "~$599 street (launched at $799; refurb from $499)",
+          "current_price": 599.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartphones.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Google Pixel 9",
+          "current": "~$599",
+          "current_price": 599.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "OnePlus 13R",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "OnePlus 13R",
+      "search_keywords_source": "guides/best-smartphones.html",
+      "pages": [
+        "guides/best-smartphones.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "oneplus-13r",
+          "current": "$599.99",
+          "current_price": 599.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "OnePlus 13R",
+          "current": "$599.99",
+          "current_price": 599.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartphones.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple Watch Series 10",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple Watch Series 10",
+      "search_keywords_source": "guides/best-smartwatches-for-health-monitoring.html",
+      "pages": [
+        "guides/best-smartwatches-for-health-monitoring.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "apple-watch-10",
+          "current": "From $399",
+          "current_price": 399.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-for-health-monitoring.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy Watch 7",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy Watch 7",
+      "search_keywords_source": "guides/best-smartwatches-for-health-monitoring.html",
+      "pages": [
+        "guides/best-smartwatches-for-health-monitoring.html",
+        "guides/best-smartwatches.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-watch-7",
+          "current": "From $299",
+          "current_price": 299.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-for-health-monitoring.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-watch-7",
+          "current": "From $299",
+          "current_price": 299.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy Watch 7",
+          "current": "From $299",
+          "current_price": 299.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Garmin Venu 3",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Garmin Venu 3",
+      "search_keywords_source": "guides/best-smartwatches-for-health-monitoring.html",
+      "pages": [
+        "guides/best-smartwatches-for-health-monitoring.html",
+        "guides/best-smartwatches.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "garmin-venu-3",
+          "current": "~$299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-for-health-monitoring.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "garmin-venu-3",
+          "current": "~$299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Garmin Venu 3",
+          "current": "~$299.99",
+          "current_price": 299.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Withings ScanWatch 2",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Withings ScanWatch 2",
+      "search_keywords_source": "guides/best-smartwatches-for-health-monitoring.html",
+      "pages": [
+        "guides/best-smartwatches-for-health-monitoring.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "withings-scanwatch-2",
+          "current": "~$369.95",
+          "current_price": 369.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-for-health-monitoring.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Amazfit Balance",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Amazfit Balance",
+      "search_keywords_source": "guides/best-smartwatches-under-200.html",
+      "pages": [
+        "guides/best-smartwatches-under-200.html",
+        "guides/best-smartwatches.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "amazfit-balance",
+          "current": "~$199.99 list — $119.99 on sale (sold out)",
+          "current_price": 199.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartwatches-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Amazfit Balance",
+          "current": "~$199 list ($119.99 sale, sold out)",
+          "current_price": 199.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartwatches-under-200.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "amazfit-balance",
+          "current": "~$199 list — $119.99 on sale (sold out)",
+          "current_price": 199.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartwatches.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Amazfit Balance",
+          "current": "~$199 list ($119.99 sale, sold out)",
+          "current_price": 199.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-smartwatches.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Garmin Forerunner 55",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Garmin Forerunner 55",
+      "search_keywords_source": "guides/best-smartwatches-under-200.html",
+      "pages": [
+        "guides/best-smartwatches-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "garmin-forerunner-55",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Garmin Forerunner 55",
+          "current": "~$199",
+          "current_price": 199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy Watch FE",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy Watch FE",
+      "search_keywords_source": "guides/best-smartwatches-under-200.html",
+      "pages": [
+        "guides/best-smartwatches-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-watch-fe",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy Watch FE",
+          "current": "~$199",
+          "current_price": 199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "CMF Watch Pro 2 by Nothing",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "CMF Watch Pro 2",
+      "search_keywords_source": "guides/best-smartwatches-under-200.html",
+      "pages": [
+        "guides/best-smartwatches-under-200.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "cmf-watch-pro-2",
+          "current": "~$69",
+          "current_price": 69.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "CMF Watch Pro 2 (by Nothing)",
+          "current": "~$69",
+          "current_price": 69.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches-under-200.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple Watch Series 12",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple Watch Series 12",
+      "search_keywords_source": "guides/best-smartwatches.html",
+      "pages": [
+        "guides/best-smartwatches.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "apple-watch-12",
+          "current": "From $399",
+          "current_price": 399.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple Watch Series 12",
+          "current": "From $399",
+          "current_price": 399.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Google Pixel Watch 3",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Google Pixel Watch 3",
+      "search_keywords_source": "guides/best-smartwatches.html",
+      "pages": [
+        "guides/best-smartwatches.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "pixel-watch-3",
+          "current": "From $349",
+          "current_price": 349.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Google Pixel Watch 3",
+          "current": "From $349",
+          "current_price": 349.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-smartwatches.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple iPad Air 11-inch",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple iPad Air",
+      "search_keywords_source": "guides/best-tablets-for-students.html",
+      "pages": [
+        "guides/best-tablets-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ipad-air",
+          "current": "From $749 (Approx. $699 w/ Edu Discount)",
+          "current_price": 749.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-tablets-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple iPad Air 11-inch",
+          "current": "$749",
+          "current_price": 749.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tablets-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Samsung Galaxy Tab S9 FE",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Samsung Galaxy Tab S9 FE",
+      "search_keywords_source": "guides/best-tablets-for-students.html",
+      "pages": [
+        "guides/best-tablets-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "galaxy-tab-s9fe",
+          "current": "From ~$449 (Frequently on sale near ~$379)",
+          "current_price": 449.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-tablets-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Samsung Galaxy Tab S9 FE",
+          "current": "~$449",
+          "current_price": 449.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tablets-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple iPad (A16) 11th Gen",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Apple iPad A16 11th Generation",
+      "search_keywords_source": "guides/best-tablets-for-students.html",
+      "pages": [
+        "guides/best-tablets-for-students.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ipad-base",
+          "current": "From $449 (Retail pricing fluctuates with sales)",
+          "current_price": 449.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tablets-for-students.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple iPad (A16) 11th Gen",
+          "current": "$449",
+          "current_price": 449.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tablets-for-students.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Apple AirTag (2nd generation)",
+      "asin": "B0GJTFXNRX",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "apple-airtag-2",
+          "current": "$29 List Price",
+          "current_price": 29.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Apple AirTag (2nd Gen)",
+          "current": "$29",
+          "current_price": 29.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Amazon Echo Dot (5th Gen)",
+      "asin": "B09B8V1LZ3",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "echo-dot-5th-gen",
+          "current": "$79.99 List Price ($44.99 in the Black Friday sale)",
+          "current_price": 79.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-tech-gifts-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Echo Dot (5th Gen)",
+          "current": "$79.99",
+          "current_price": 79.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Fitbit Inspire 3",
+      "asin": "B0B5F9SZW7",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "fitbit-inspire-3",
+          "current": "$99.95 MSRP",
+          "current_price": 99.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Fitbit Inspire 3",
+          "current": "$99.95",
+          "current_price": 99.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+      "asin": "B07CMS5Q6P",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "logitech-g305",
+          "current": "$59.99 list (often ~$30 on sale)",
+          "current_price": 59.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-tech-gifts-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Logitech G305 LIGHTSPEED",
+          "current": "$59.99 list, ~$30 on sale",
+          "current_price": 59.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker 622 Magnetic Battery (MagGo)",
+      "asin": "B0B4667885",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "anker-622-maggo",
+          "current": "$47.99 List Price",
+          "current_price": 47.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "JBL Tune 520BT Wireless On-Ear Headphones",
+      "asin": "B0C1HGKNG7",
+      "asin_source": "guides/best-tech-gifts-under-100.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "jbl-tune-520bt",
+          "current": "$59.95 List Price",
+          "current_price": 59.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "JBL Tune 520BT",
+          "current": "$59.95 list",
+          "current_price": 59.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker 622 MagGo",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-tech-gifts-under-100.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker 622 MagGo",
+          "current": "$47.99 list",
+          "current_price": 47.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-tech-gifts-under-100.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Ring Battery Doorbell 2K",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Ring Battery Doorbell 2K",
+      "search_keywords_source": "guides/best-video-doorbells-in-2026.html",
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ring-battery-doorbell-2k",
+          "current": "All-Time Low: $39.99",
+          "current_price": 39.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ring Battery Doorbell 2K",
+          "current": "$39.99 (was $99.99)",
+          "current_price": 39.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ring Battery Doorbell 2K Plus",
+          "current": "$89.99 (was $179.99)",
+          "current_price": 89.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ring Battery Doorbell 2K + Chime",
+          "current": "$49.99 (was $119.99)",
+          "current_price": 49.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Ring Battery Doorbell 2K Plus and Wired Doorbell 4K Pro",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Ring Battery Doorbell 2K Plus",
+      "search_keywords_source": "guides/best-video-doorbells-in-2026.html",
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ring-step-ups",
+          "current": "$89.99 / $149.99",
+          "current_price": 89.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Ring Battery Doorbell 2K and Chime Bundle",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Ring Battery Doorbell 2K Chime bundle",
+      "search_keywords_source": "guides/best-video-doorbells-in-2026.html",
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ring-chime-bundle",
+          "current": "$49.99 (was $119.99)",
+          "current_price": 49.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Blink Wired Doorbell 2K+",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Blink Wired Doorbell 2K ",
+      "search_keywords_source": "guides/best-video-doorbells-in-2026.html",
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "blink-wired-2k-plus",
+          "current": "$49.99",
+          "current_price": 49.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Blink Wired Doorbell 2K+",
+          "current": "$49.99",
+          "current_price": 49.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Arlo Video Doorbell 2K (2nd Gen)",
+      "asin": "B0C683F516",
+      "asin_source": "guides/best-video-doorbells-in-2026.html",
+      "asin_verified": true,
+      "has_amazon_link": true,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "arlo-2k-2nd-gen",
+          "current": "$28.02 (list $79.99)",
+          "current_price": 28.02,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Arlo Video Doorbell 2K (2nd Gen)",
+          "current": "$28.02 (list $79.99)",
+          "current_price": 28.02,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "eufy Video Doorbell E340",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "eufy Video Doorbell E340",
+      "search_keywords_source": "guides/best-video-doorbells-in-2026.html",
+      "pages": [
+        "guides/best-video-doorbells-in-2026.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "eufy-e340",
+          "current": "$99.99 (list $169.99)",
+          "current_price": 99.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "eufy Video Doorbell E340",
+          "current": "$99.99 (list $169.99)",
+          "current_price": 99.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-video-doorbells-in-2026.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Soundcore P20i",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Anker Soundcore P20i",
+      "search_keywords_source": "guides/best-wireless-earbuds-under-50.html",
+      "pages": [
+        "guides/best-wireless-earbuds-under-50.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "soundcore-p20i",
+          "current": "~$24.99",
+          "current_price": 24.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker Soundcore P20i",
+          "current": "~$24",
+          "current_price": 24.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "JLab Go Air Pop",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "JLab Go Air Pop",
+      "search_keywords_source": "guides/best-wireless-earbuds-under-50.html",
+      "pages": [
+        "guides/best-wireless-earbuds-under-50.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "jlab-go-air-pop",
+          "current": "~$24.99",
+          "current_price": 24.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "JLab Go Air Pop",
+          "current": "~$25",
+          "current_price": 25.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "QCY T13 ANC",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "QCY T13 ANC",
+      "search_keywords_source": "guides/best-wireless-earbuds-under-50.html",
+      "pages": [
+        "guides/best-wireless-earbuds-under-50.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "qcy-t13",
+          "current": "~$35",
+          "current_price": 35.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "QCY T13 ANC",
+          "current": "~$35",
+          "current_price": 35.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Moondrop Space Travel",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Moondrop Space Travel",
+      "search_keywords_source": "guides/best-wireless-earbuds-under-50.html",
+      "pages": [
+        "guides/best-wireless-earbuds-under-50.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "moondrop-space-travel",
+          "current": "~$29.99",
+          "current_price": 29.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Moondrop Space Travel",
+          "current": "~$30",
+          "current_price": 30.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds-under-50.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Sony WF-1000XM6 & Apple AirPods Pro 3",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Sony WF-1000XM6",
+      "search_keywords_source": "guides/best-wireless-earbuds.html",
+      "pages": [
+        "guides/best-wireless-earbuds.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "",
+          "current": "$249 – $299",
+          "current_price": 249.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Nothing Ear (2024)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Nothing Ear",
+      "search_keywords_source": "guides/best-wireless-earbuds.html",
+      "pages": [
+        "guides/best-wireless-earbuds.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "nothing-ear",
+          "current": "~$69 street ($109 list)",
+          "current_price": 69.0,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Nothing Ear (2024)",
+          "current": "Best Mid-Range Value",
+          "current_price": null,
+          "is_range": false,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Anker Soundcore Space A40",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Anker Soundcore Space A40",
+      "search_keywords_source": "guides/best-wireless-earbuds.html",
+      "pages": [
+        "guides/best-wireless-earbuds.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "soundcore-a40",
+          "current": "$59.99–$69 street ($79.99 list)",
+          "current_price": 59.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/best-wireless-earbuds.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Anker Soundcore Space A40",
+          "current": "Best Budget ANC (Sub-$80)",
+          "current_price": 80.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/best-wireless-earbuds.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "256GB",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/iphone-duo-launch-day-buying-guide.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "256GB",
+          "current": "$1,999",
+          "current_price": 1999.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/iphone-duo-launch-day-buying-guide.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "512GB",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/iphone-duo-launch-day-buying-guide.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "512GB",
+          "current": "$2,199",
+          "current_price": 2199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/iphone-duo-launch-day-buying-guide.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "1TB",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/iphone-duo-launch-day-buying-guide.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "1TB",
+          "current": "$2,599",
+          "current_price": 2599.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/iphone-duo-launch-day-buying-guide.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "2TB",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": false,
+      "search_keywords": null,
+      "search_keywords_source": null,
+      "pages": [
+        "guides/iphone-duo-launch-day-buying-guide.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "2TB",
+          "current": "$3,199",
+          "current_price": 3199.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/iphone-duo-launch-day-buying-guide.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Aqara Presence Sensor FP2",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Aqara Presence Sensor FP2",
+      "search_keywords_source": "guides/smart-home-automation-essentials.html",
+      "pages": [
+        "guides/smart-home-automation-essentials.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "aqara-fp2",
+          "current": "~$82.99",
+          "current_price": 82.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Aqara Presence Sensor FP2",
+          "current": "~$82",
+          "current_price": 82.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Ultraloq Bolt Fingerprint (Matter over Thread)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Ultraloq Bolt Fingerprint",
+      "search_keywords_source": "guides/smart-home-automation-essentials.html",
+      "pages": [
+        "guides/smart-home-automation-essentials.html",
+        "guides/smart-home-devices-that-actually-work.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "ultraloq-lock",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ultraloq Bolt Fingerprint (Matter)",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        },
+        {
+          "kind": "price-est",
+          "block_id": "ultraloq-lock",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Ultraloq Bolt Fingerprint (Matter)",
+          "current": "~$199.99",
+          "current_price": 199.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Eve Motion (Matter over Thread)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Eve Motion Matter",
+      "search_keywords_source": "guides/smart-home-automation-essentials.html",
+      "pages": [
+        "guides/smart-home-automation-essentials.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "eve-motion",
+          "current": "~$49",
+          "current_price": 49.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Eve Motion",
+          "current": "~$49",
+          "current_price": 49.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "SwitchBot Curtain 3",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "SwitchBot Curtain 3",
+      "search_keywords_source": "guides/smart-home-automation-essentials.html",
+      "pages": [
+        "guides/smart-home-automation-essentials.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "switchbot-curtain",
+          "current": "~$89.99",
+          "current_price": 89.99,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "SwitchBot Curtain 3",
+          "current": "~$89",
+          "current_price": 89.0,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-automation-essentials.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Eve Energy (Matter over Thread)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Eve Energy Matter over Thread",
+      "search_keywords_source": "guides/smart-home-devices-that-actually-work.html",
+      "pages": [
+        "guides/smart-home-devices-that-actually-work.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "eve-energy",
+          "current": "~$39.95",
+          "current_price": 39.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Eve Energy",
+          "current": "~$39.95",
+          "current_price": 39.95,
+          "is_range": false,
+          "auto_updatable": true,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        }
+      ],
+      "price_only_in_prose": false
+    },
+    {
+      "product": "Reolink Video Doorbell (PoE / Wi-Fi)",
+      "asin": null,
+      "asin_source": null,
+      "asin_verified": false,
+      "has_amazon_link": true,
+      "search_keywords": "Reolink Video Doorbell PoE",
+      "search_keywords_source": "guides/smart-home-devices-that-actually-work.html",
+      "pages": [
+        "guides/smart-home-devices-that-actually-work.html"
+      ],
+      "structured_fields": [
+        {
+          "kind": "price-est",
+          "block_id": "reolink-doorbell",
+          "current": "~$119.99 (PoE) / ~$149.99 (Wi-Fi)",
+          "current_price": 119.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        },
+        {
+          "kind": "table-cell",
+          "table": 0,
+          "row_label": "Reolink Video Doorbell (PoE / Wi-Fi)",
+          "current": "~$119.99 (PoE) / ~$149.99 (Wi-Fi)",
+          "current_price": 119.99,
+          "is_range": true,
+          "auto_updatable": false,
+          "page": "guides/smart-home-devices-that-actually-work.html"
+        }
+      ],
+      "price_only_in_prose": false
+    }
+  ],
+  "unassociated_amazon_links": [
+    {
+      "page": "comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html",
+      "kind": "search",
+      "value": "Apple Watch",
+      "href": "https://www.amazon.com/s?k=Apple+Watch&tag=smartgearpi0a-20",
+      "text": "🛒 Apple Watch on Amazon"
+    },
+    {
+      "page": "comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html",
+      "kind": "search",
+      "value": "Google Pixel Watch",
+      "href": "https://www.amazon.com/s?k=Google+Pixel+Watch&tag=smartgearpi0a-20",
+      "text": "🛒 Google Pixel Watch on Amazon"
+    },
+    {
+      "page": "comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html",
+      "kind": "search",
+      "value": "Samsung Galaxy Watch",
+      "href": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch&tag=smartgearpi0a-20",
+      "text": "🛒 Samsung Galaxy Watch on Amazon"
+    },
+    {
+      "page": "comparisons/apple-watch-vs-samsung-vs-garmin.html",
+      "kind": "search",
+      "value": "Apple Watch",
+      "href": "https://www.amazon.com/s?k=Apple+Watch&tag=smartgearpi0a-20",
+      "text": "🛒 Apple Watch on Amazon"
+    },
+    {
+      "page": "comparisons/apple-watch-vs-samsung-vs-garmin.html",
+      "kind": "search",
+      "value": "Samsung Galaxy Watch",
+      "href": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch&tag=smartgearpi0a-20",
+      "text": "🛒 Samsung Galaxy Watch on Amazon"
+    },
+    {
+      "page": "comparisons/apple-watch-vs-samsung-vs-garmin.html",
+      "kind": "search",
+      "value": "Garmin smartwatch",
+      "href": "https://www.amazon.com/s?k=Garmin+smartwatch&tag=smartgearpi0a-20",
+      "text": "🛒 Garmin on Amazon"
+    },
+    {
+      "page": "comparisons/iphone-18-pro-vs-iphone-17-pro.html",
+      "kind": "search",
+      "value": "iPhone 18 Pro",
+      "href": "https://www.amazon.com/s?k=iPhone+18+Pro&tag=smartgearpi0a-20",
+      "text": "🛒 iPhone 18 Pro on Amazon"
+    },
+    {
+      "page": "comparisons/iphone-18-pro-vs-iphone-17-pro.html",
+      "kind": "search",
+      "value": "iPhone 17 Pro",
+      "href": "https://www.amazon.com/s?k=iPhone+17+Pro&tag=smartgearpi0a-20",
+      "text": "🛒 iPhone 17 Pro on Amazon"
+    },
+    {
+      "page": "comparisons/iphone-fold-vs-galaxy-z-fold-7.html",
+      "kind": "search",
+      "value": "iPhone Duo",
+      "href": "https://www.amazon.com/s?k=iPhone+Duo&tag=smartgearpi0a-20",
+      "text": "🛒 iPhone Duo on Amazon"
+    },
+    {
+      "page": "comparisons/iphone-fold-vs-galaxy-z-fold-7.html",
+      "kind": "search",
+      "value": "Samsung Galaxy Z Fold 7",
+      "href": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+7&tag=smartgearpi0a-20",
+      "text": "🛒 Galaxy Z Fold 7 on Amazon"
+    },
+    {
+      "page": "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html",
+      "kind": "search",
+      "value": "Sony WF-1000XM6",
+      "href": "https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=smartgearpi0a-20",
+      "text": "🛒 Check Sony WF-1000XM6 on Amazon"
+    },
+    {
+      "page": "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html",
+      "kind": "search",
+      "value": "Apple AirPods Pro",
+      "href": "https://www.amazon.com/s?k=Apple+AirPods+Pro&tag=smartgearpi0a-20",
+      "text": "🛒 Check AirPods Pro 3 on Amazon"
+    },
+    {
+      "page": "guides/best-budget-tablets-under-300.html",
+      "kind": "other",
+      "value": "https://www.developer.amazon.com/docs/device-specs/ft-device-specifications-firehd-models.html",
+      "href": "https://www.developer.amazon.com/docs/device-specs/ft-device-specifications-firehd-models.html",
+      "text": "Amazon Developer — Fire tablet specifications"
+    },
+    {
+      "page": "guides/best-e-readers-in-2026.html",
+      "kind": "search",
+      "value": "Kindle Paperwhite 2026",
+      "href": "https://www.amazon.com/s?k=Kindle+Paperwhite+2026&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-e-readers-in-2026.html",
+      "kind": "search",
+      "value": "Kindle 2026",
+      "href": "https://www.amazon.com/s?k=Kindle+2026&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-e-readers-in-2026.html",
+      "kind": "search",
+      "value": "Kindle Colorsoft 2026",
+      "href": "https://www.amazon.com/s?k=Kindle+Colorsoft+2026&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-e-readers-in-2026.html",
+      "kind": "search",
+      "value": "Kobo Libra Colour",
+      "href": "https://www.amazon.com/s?k=Kobo+Libra+Colour&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-e-readers-in-2026.html",
+      "kind": "search",
+      "value": "Kobo Clara Colour",
+      "href": "https://www.amazon.com/s?k=Kobo+Clara+Colour&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-noise-cancelling-headphones.html",
+      "kind": "dp",
+      "value": "B0GPT1FJBD",
+      "href": "https://www.amazon.com/dp/B0GPT1FJBD?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-noise-cancelling-headphones.html",
+      "kind": "dp",
+      "value": "B0FDKR293G",
+      "href": "https://www.amazon.com/dp/B0FDKR293G?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-noise-cancelling-headphones.html",
+      "kind": "dp",
+      "value": "B0CQ2TBSPV",
+      "href": "https://www.amazon.com/dp/B0CQ2TBSPV?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-noise-cancelling-headphones.html",
+      "kind": "dp",
+      "value": "B0DWT9XPLS",
+      "href": "https://www.amazon.com/dp/B0DWT9XPLS?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-noise-cancelling-headphones.html",
+      "kind": "dp",
+      "value": "B0B5VHRX7F",
+      "href": "https://www.amazon.com/dp/B0B5VHRX7F?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B0GJTFXNRX",
+      "href": "https://www.amazon.com/dp/B0GJTFXNRX?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B09B8V1LZ3",
+      "href": "https://www.amazon.com/dp/B09B8V1LZ3?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B0B5F9SZW7",
+      "href": "https://www.amazon.com/dp/B0B5F9SZW7?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B07CMS5Q6P",
+      "href": "https://www.amazon.com/dp/B07CMS5Q6P?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B0B4667885",
+      "href": "https://www.amazon.com/dp/B0B4667885?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "guides/best-tech-gifts-under-100.html",
+      "kind": "dp",
+      "value": "B0C1HGKNG7",
+      "href": "https://www.amazon.com/dp/B0C1HGKNG7?tag=smartgearpi0a-20",
+      "text": "🛒 Check Price"
+    },
+    {
+      "page": "index.html",
+      "kind": "search",
+      "value": "Apple MacBook Air M5",
+      "href": "https://www.amazon.com/s?k=Apple+MacBook+Air+M5&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price on Amazon"
+    },
+    {
+      "page": "index.html",
+      "kind": "search",
+      "value": "Sony WF-1000XM6",
+      "href": "https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price on Amazon"
+    },
+    {
+      "page": "index.html",
+      "kind": "search",
+      "value": "Anker Prime Power Bank",
+      "href": "https://www.amazon.com/s?k=Anker+Prime+Power+Bank&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price on Amazon"
+    },
+    {
+      "page": "index.html",
+      "kind": "search",
+      "value": "Keychron Q1 Max",
+      "href": "https://www.amazon.com/s?k=Keychron+Q1+Max&tag=smartgearpi0a-20",
+      "text": "🛒 Check Price on Amazon"
+    },
+    {
+      "page": "reviews/apple-macbook-air-m5-review.html",
+      "kind": "search",
+      "value": "Apple MacBook Air M5",
+      "href": "https://www.amazon.com/s?k=Apple+MacBook+Air+M5&tag=smartgearpi0a-20",
+      "text": "🛒 Check Current Price on Amazon"
+    },
+    {
+      "page": "reviews/apple-macbook-air-m5-review.html",
+      "kind": "search",
+      "value": "Apple MacBook Air M5",
+      "href": "https://www.amazon.com/s?k=Apple+MacBook+Air+M5&tag=smartgearpi0a-20",
+      "text": "🛒 View on Amazon"
+    },
+    {
+      "page": "reviews/dell-inspiron-15-review.html",
+      "kind": "search",
+      "value": "Dell Inspiron 15",
+      "href": "https://www.amazon.com/s?k=Dell+Inspiron+15&tag=smartgearpi0a-20",
+      "text": "🛒 Check Current Price on Amazon"
+    },
+    {
+      "page": "reviews/dell-inspiron-15-review.html",
+      "kind": "search",
+      "value": "Dell Inspiron 15",
+      "href": "https://www.amazon.com/s?k=Dell+Inspiron+15&tag=smartgearpi0a-20",
+      "text": "🛒 View on Amazon"
+    },
+    {
+      "page": "reviews/jbl-flip-7-review.html",
+      "kind": "search",
+      "value": "JBL Flip 7",
+      "href": "https://www.amazon.com/s?k=JBL+Flip+7&tag=smartgearpi0a-20",
+      "text": "🛒 Check Current Price on Amazon"
+    },
+    {
+      "page": "reviews/jbl-flip-7-review.html",
+      "kind": "search",
+      "value": "JBL Flip 7",
+      "href": "https://www.amazon.com/s?k=JBL+Flip+7&tag=smartgearpi0a-20",
+      "text": "🛒 View on Amazon"
+    },
+    {
+      "page": "reviews/samsung-galaxy-z-fold-7-review.html",
+      "kind": "search",
+      "value": "Samsung Galaxy Z Fold 7",
+      "href": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+7&tag=smartgearpi0a-20",
+      "text": "🛒 Check Current Price on Amazon"
+    },
+    {
+      "page": "reviews/samsung-galaxy-z-fold-7-review.html",
+      "kind": "search",
+      "value": "Samsung Galaxy Z Fold 7",
+      "href": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+7&tag=smartgearpi0a-20",
+      "text": "🛒 View on Amazon"
+    },
+    {
+      "page": "reviews/sony-wh-1000xm6-review.html",
+      "kind": "search",
+      "value": "Sony WH-1000XM6",
+      "href": "https://www.amazon.com/s?k=Sony+WH-1000XM6&tag=smartgearpi0a-20",
+      "text": "🛒 Check Current Price on Amazon"
+    },
+    {
+      "page": "reviews/sony-wh-1000xm6-review.html",
+      "kind": "search",
+      "value": "Sony WH-1000XM6",
+      "href": "https://www.amazon.com/s?k=Sony+WH-1000XM6&tag=smartgearpi0a-20",
+      "text": "🛒 View on Amazon"
+    }
+  ],
+  "prose_price_mentions_per_page": {
+    "about.html": 0,
+    "authors/choudhry-rafiq.html": 5,
+    "categories/accessories.html": 2,
+    "categories/audio.html": 7,
+    "categories/gaming.html": 10,
+    "categories/laptops.html": 16,
+    "categories/smart-home.html": 1,
+    "categories/smartphones.html": 16,
+    "comparisons/.html": 0,
+    "comparisons/amazon-echo-vs-google-nest.html": 14,
+    "comparisons/apple-watch-vs-pixel-watch-vs-galaxy-watch.html": 13,
+    "comparisons/apple-watch-vs-samsung-vs-garmin.html": 38,
+    "comparisons/iphone-18-pro-vs-iphone-17-pro.html": 17,
+    "comparisons/iphone-fold-vs-galaxy-z-fold-7.html": 10,
+    "comparisons/sony-wf-1000xm6-vs-airpods-pro-3.html": 21,
+    "contact.html": 0,
+    "guides/.html": 25,
+    "guides/back-to-school-checklist.html": 2,
+    "guides/best-bluetooth-speakers.html": 6,
+    "guides/best-budget-laptops-under-300.html": 46,
+    "guides/best-budget-smartphones-under-200.html": 39,
+    "guides/best-budget-smartphones-under-300.html": 29,
+    "guides/best-budget-tablets-under-300.html": 58,
+    "guides/best-cameras-reviewed.html": 14,
+    "guides/best-cameras.html": 11,
+    "guides/best-e-readers-in-2026.html": 33,
+    "guides/best-gaming-accessories-under-100.html": 37,
+    "guides/best-gaming-headsets-under-100.html": 19,
+    "guides/best-gaming-mouse.html": 5,
+    "guides/best-laptop-stands.html": 3,
+    "guides/best-laptops-for-students.html": 24,
+    "guides/best-laptops-under-1000.html": 56,
+    "guides/best-mechanical-keyboards.html": 13,
+    "guides/best-noise-cancelling-headphones.html": 17,
+    "guides/best-power-banks.html": 0,
+    "guides/best-robot-vacuums.html": 18,
+    "guides/best-smart-home-devices.html": 20,
+    "guides/best-smartphones-under-400.html": 57,
+    "guides/best-smartphones.html": 44,
+    "guides/best-smartwatches-for-health-monitoring.html": 10,
+    "guides/best-smartwatches-under-200.html": 28,
+    "guides/best-smartwatches.html": 22,
+    "guides/best-tablets-for-students.html": 28,
+    "guides/best-tech-gifts-under-100.html": 40,
+    "guides/best-video-doorbells-in-2026.html": 82,
+    "guides/best-wireless-earbuds-under-50.html": 26,
+    "guides/best-wireless-earbuds.html": 40,
+    "guides/iphone-duo-launch-day-buying-guide.html": 23,
+    "guides/should-you-upgrade-your-phone-in-2026.html": 25,
+    "guides/smart-home-automation-essentials.html": 4,
+    "guides/smart-home-devices-that-actually-work.html": 9,
+    "hubs/back-to-school-tech.html": 0,
+    "index.html": 9,
+    "privacy-policy.html": 0,
+    "reviews/.html": 5,
+    "reviews/apple-macbook-air-m5-review.html": 19,
+    "reviews/dell-inspiron-15-review.html": 15,
+    "reviews/jbl-flip-7-review.html": 18,
+    "reviews/samsung-galaxy-z-fold-7-review.html": 19,
+    "reviews/sony-wh-1000xm6-review.html": 25,
+    "terms.html": 0
+  }
+}
