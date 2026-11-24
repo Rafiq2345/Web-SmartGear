@@ -11,10 +11,10 @@ here touches the live site and no credentials exist anywhere in this folder.
 |---|---|
 | ASIN map | Built from the live site (61 pages) — `asin-map.json` |
 | Updater script | Written + tested in mock mode — `price_sync.py` |
-| GitHub Action | Staged here only, **not pushed** — `price-sync.yml` |
+| GitHub Action | **Live in repo** since 24 Nov 2026 — `.github/workflows/price-sync.yml` (skips every run until the secrets exist) |
 | Test proof | `test-output/` (before/after diff, mock run log) |
 | Credentials | **None exist.** Blocked on 10 qualifying sales in 30 days (account has 0). |
-| Live site | Untouched. Nothing has been pushed to GitHub. |
+| Live site | Article pages untouched. The updater files (script + map + workflow) are in the repo; the updater has changed no page yet. |
 
 ## How it works
 
@@ -121,20 +121,19 @@ Associates Central).
    repository secret**, add two secrets:
    - `AMAZON_CLIENT_ID`
    - `AMAZON_CLIENT_SECRET`
-3. **Place the files in the repo** (from this folder):
+3. **Files are in the repo** (done 24 Nov 2026):
    - `price_sync.py` → `scripts/price-updater/price_sync.py`
    - `asin-map.json` → `scripts/price-updater/asin-map.json`
    - `price-sync.yml` → `.github/workflows/price-sync.yml`
-   (Push via the GitHub web UI or a normal commit — these are text files.)
+   (Script + map were pushed by Muse; the workflow file was uploaded by Rafiq via the web UI because GitHub blocks Apps from writing workflow files.)
 4. **Test manually first:** Actions tab → "Amazon price sync" →
    **Run workflow**. Check the run log artifact and the commit it made
    (if any price changed). The workflow only commits when prices changed.
 5. **Leave the hourly schedule on.** It runs at the top of every hour
    (UTC). If a run finds no changes, it commits nothing.
 
-> **Do NOT push `price-sync.yml` before step 2.** The workflow has a
-> guard that skips the sync when the secrets are missing, so pushing it
-> early is harmless — but pointless.
+> The workflow is already in the repo. Its guard skips the sync while the
+> secrets are missing, so every run is a harmless no-op until step 2 is done.
 
 ## Limits (honest)
 
@@ -243,7 +242,7 @@ silent — now counted as `fields_left_manual` in the log.
 | `asin-map-summary.md` | Human-readable map summary + resolution priority |
 | `build_asin_map.py` | Rebuilds the map from the live sitemap (needs `lxml`) |
 | `price_sync.py` | The updater (stdlib-only) |
-| `price-sync.yml` | GitHub Action (hourly) — staged, do not push yet |
+| `price-sync.yml` | GitHub Action (hourly) — live in `.github/workflows/` |
 | `sitemap.xml` | Live sitemap snapshot, 24 Nov 2026 |
 | `pages/` | Local snapshot of all 61 live pages (map-building input) |
 | `test-output/` | Mock responses, test map, before/after pages, run logs |
