@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" role="img" aria-label="Bar chart: battery capacity in watt-hours for the Anker Prime 20,000mAh (72 watt-hours, about 129 dollars), Baseus Blade HD (74 watt-hours, about 63 to 70 dollars), and Anker Nano 30W (about 36 watt-hours, about 39 dollars)">
+  <rect x="8" y="8" width="744" height="304" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery capacity — watt-hours</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Watt-hours per charge — and what each bank costs</text>
+
+  <!-- Anker Prime 20,000mAh: 72 Wh, ~$129 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Anker Prime 20,000mAh</text>
+  <rect x="250" y="100" width="324" height="26" rx="4" fill="#2563eb"/>
+  <text x="582" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">72 Wh</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$129</text>
+
+  <!-- Baseus Blade HD: 74 Wh, ~$63–$70 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Baseus Blade HD</text>
+  <rect x="250" y="152" width="333" height="26" rx="4" fill="#f08804"/>
+  <text x="591" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">74 Wh</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$63–$70</text>
+
+  <!-- Anker Nano 30W: ~36 Wh, ~$39 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Anker Nano 30W</text>
+  <rect x="250" y="204" width="162" height="26" rx="4" fill="#2563eb"/>
+  <text x="420" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">~36 Wh</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$39</text>
+
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Capacity (watt-hours) as cited in the guide; Nano 10,000mAh is about 36Wh.</text>
+  <text x="28" y="292" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>

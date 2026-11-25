@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: battery life in days for the Amazfit Balance (14 days, about 199 dollars), Garmin Forerunner 55 (14 days, about 199 dollars), Samsung Galaxy Watch FE (about 1.5 days, about 199 dollars), and CMF Watch Pro 2 (11 days, about 69 dollars)">
+  <rect x="8" y="8" width="744" height="344" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life per charge</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Days per charge — and what each watch costs</text>
+
+  <!-- Amazfit Balance: 14 days, ~$199 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Amazfit Balance</text>
+  <rect x="250" y="100" width="280" height="26" rx="4" fill="#f08804"/>
+  <text x="538" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">14 days</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$199</text>
+
+  <!-- Garmin Forerunner 55: 14 days, ~$199 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Garmin Forerunner 55</text>
+  <rect x="250" y="152" width="280" height="26" rx="4" fill="#f08804"/>
+  <text x="538" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">14 days</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$199</text>
+
+  <!-- Samsung Galaxy Watch FE: ~1.5 days, ~$199 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Samsung Galaxy Watch FE</text>
+  <rect x="250" y="204" width="30" height="26" rx="4" fill="#2563eb"/>
+  <text x="288" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">~1.5 days</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$199</text>
+
+  <!-- CMF Watch Pro 2: 11 days, ~$69 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">CMF Watch Pro 2</text>
+  <rect x="250" y="256" width="220" height="26" rx="4" fill="#2563eb"/>
+  <text x="478" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">11 days</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$69</text>
+
+  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Battery figures as cited in the guide; Galaxy Watch FE lasts 30–40 hours (about 1.5 days).</text>
+  <text x="28" y="332" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>
