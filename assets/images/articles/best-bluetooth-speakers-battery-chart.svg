@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-label="Bar chart: battery life per charge for the JBL Flip 7 (14 hours, 149.95 dollars), JBL Charge 6 (24 hours, 199.95 dollars), Bose SoundLink Max (20 hours, about 399 dollars), Marshall Emberton II (30+ hours, about 169.99 dollars), and Anker Soundcore Motion Boom Plus (20 hours, 179.99 dollars list)">
+  <rect x="8" y="8" width="744" height="384" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life per charge</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Hours of playback — and what each speaker costs</text>
+
+  <!-- JBL Flip 7: 14 hrs, $149.95 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">JBL Flip 7</text>
+  <rect x="250" y="100" width="168" height="26" rx="4" fill="#2563eb"/>
+  <text x="426" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">14 hrs</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$149.95</text>
+
+  <!-- JBL Charge 6: 24 hrs, $199.95 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">JBL Charge 6</text>
+  <rect x="250" y="152" width="288" height="26" rx="4" fill="#2563eb"/>
+  <text x="546" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">24 hrs</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$199.95</text>
+
+  <!-- Bose SoundLink Max: 20 hrs, ~$399 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Bose SoundLink Max</text>
+  <rect x="250" y="204" width="240" height="26" rx="4" fill="#2563eb"/>
+  <text x="498" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">20 hrs</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$399</text>
+
+  <!-- Marshall Emberton II: 30+ hrs, ~$169.99 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Marshall Emberton II</text>
+  <rect x="250" y="256" width="360" height="26" rx="4" fill="#f08804"/>
+  <text x="618" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">30+ h</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$169.99</text>
+
+  <!-- Anker Soundcore Motion Boom Plus: 20 hrs, $179.99 list -->
+  <text x="28" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Anker Motion Boom Plus</text>
+  <rect x="250" y="308" width="240" height="26" rx="4" fill="#2563eb"/>
+  <text x="498" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">20 hrs</text>
+  <text x="732" y="326" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$179.99 list</text>
+
+  <text x="28" y="362" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Battery figures as cited in the guide. JBL Playtime Boost adds about 4 hours (Flip 7: 16 hrs, Charge 6: 28 hrs).</text>
+  <text x="28" y="382" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>
