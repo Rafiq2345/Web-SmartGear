@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: buds-only battery life for the Anker Soundcore P20i (10 hours, about 24 dollars), JLab Go Air Pop (8 hours, about 25 dollars), QCY T13 ANC (7 hours, about 35 dollars), and Moondrop Space Travel (4 hours, about 30 dollars)">
+  <rect x="8" y="8" width="744" height="344" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life per charge — buds only</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Hours per charge — and what each pair costs</text>
+
+  <!-- Anker Soundcore P20i: 10 hrs, ~$24 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Anker Soundcore P20i</text>
+  <rect x="250" y="100" width="380" height="26" rx="4" fill="#f08804"/>
+  <text x="638" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">10 hrs</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$24</text>
+
+  <!-- JLab Go Air Pop: 8 hrs, ~$25 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">JLab Go Air Pop</text>
+  <rect x="250" y="152" width="304" height="26" rx="4" fill="#2563eb"/>
+  <text x="562" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">8 hrs</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$25</text>
+
+  <!-- QCY T13 ANC: 7 hrs, ~$35 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">QCY T13 ANC</text>
+  <rect x="250" y="204" width="266" height="26" rx="4" fill="#2563eb"/>
+  <text x="524" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">7 hrs</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$35</text>
+
+  <!-- Moondrop Space Travel: 4 hrs, ~$30 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Moondrop Space Travel</text>
+  <rect x="250" y="256" width="152" height="26" rx="4" fill="#2563eb"/>
+  <text x="410" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">4 hrs</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$30</text>
+
+  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Battery figures (buds only) as cited in the guide; the charging case adds 12–32 hours total.</text>
+  <text x="28" y="332" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>
