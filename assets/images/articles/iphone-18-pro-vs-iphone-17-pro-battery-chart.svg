@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" width="760" height="280" role="img" aria-label="Bar chart: battery life in video playback hours for the iPhone 18 Pro (36 hours, 1,199 dollars) and iPhone 17 Pro (33 hours, 1,099 dollars)">
+  <rect x="8" y="8" width="744" height="264" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life — video playback hours</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Hours of video playback — and what each phone costs</text>
+
+  <!-- iPhone 18 Pro: 36 hrs, $1,199 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">iPhone 18 Pro</text>
+  <rect x="250" y="100" width="288" height="26" rx="4" fill="#f08804"/>
+  <text x="546" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">36 hrs</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$1,199</text>
+
+  <!-- iPhone 17 Pro: 33 hrs, $1,099 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">iPhone 17 Pro</text>
+  <rect x="250" y="152" width="264" height="26" rx="4" fill="#2563eb"/>
+  <text x="522" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">33 hrs</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$1,099</text>
+
+  <text x="28" y="232" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Both start at 256GB; battery figures as cited in the guide.</text>
+  <text x="28" y="252" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>

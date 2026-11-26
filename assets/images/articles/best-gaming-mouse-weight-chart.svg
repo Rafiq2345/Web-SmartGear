@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: weight in grams for the Logitech G Pro X Superlight 2 (60 grams, about 159 dollars), Razer DeathAdder V3 Pro (63 grams, about 149 dollars), Razer Viper V3 Pro (54 grams, about 159 dollars), and Pulsar X2V2 Wireless (53 grams, about 99 dollars)">
+  <rect x="8" y="8" width="744" height="344" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Weight — grams (lighter is better)</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Grams per mouse — and what each mouse costs</text>
+
+  <!-- Logitech G Pro X Superlight 2: 60 g, ~$159 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Logitech G Pro X Superlight 2</text>
+  <rect x="250" y="100" width="300" height="26" rx="4" fill="#2563eb"/>
+  <text x="558" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">60 g</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$159</text>
+
+  <!-- Razer DeathAdder V3 Pro: 63 g, ~$149 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Razer DeathAdder V3 Pro</text>
+  <rect x="250" y="152" width="315" height="26" rx="4" fill="#2563eb"/>
+  <text x="573" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">63 g</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$149</text>
+
+  <!-- Razer Viper V3 Pro: 54 g, ~$159 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Razer Viper V3 Pro</text>
+  <rect x="250" y="204" width="270" height="26" rx="4" fill="#2563eb"/>
+  <text x="528" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">54 g</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$159</text>
+
+  <!-- Pulsar X2V2 Wireless: 53 g, ~$99 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Pulsar X2V2 Wireless</text>
+  <rect x="250" y="256" width="265" height="26" rx="4" fill="#f08804"/>
+  <text x="523" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">53 g</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$99</text>
+
+  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Lighter is better for fast flicks — the shortest bar wins; Pulsar X2V2 is the lightest pick.</text>
+  <text x="28" y="332" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>

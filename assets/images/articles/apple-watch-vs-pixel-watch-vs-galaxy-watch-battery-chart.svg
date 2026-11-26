@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" role="img" aria-label="Bar chart: battery life in hours for the Apple Watch Series 10 (about 18 hours, about 399 dollars), Google Pixel Watch 3 (about 24 hours, about 349 dollars), and Samsung Galaxy Watch 7 (about 30 hours, about 299 dollars)">
+  <rect x="8" y="8" width="744" height="304" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Battery life — hours (always-on display)</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Hours per charge — and what each watch costs</text>
+
+  <!-- Apple Watch Series 10: ~18 hrs, ~$399 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Apple Watch Series 10</text>
+  <rect x="250" y="100" width="180" height="26" rx="4" fill="#2563eb"/>
+  <text x="438" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">~18 hrs</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$399</text>
+
+  <!-- Google Pixel Watch 3: ~24 hrs, ~$349 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Google Pixel Watch 3</text>
+  <rect x="250" y="152" width="240" height="26" rx="4" fill="#2563eb"/>
+  <text x="498" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">~24 hrs</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$349</text>
+
+  <!-- Samsung Galaxy Watch 7: ~30 hrs, ~$299 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Samsung Galaxy Watch 7</text>
+  <rect x="250" y="204" width="300" height="26" rx="4" fill="#f08804"/>
+  <text x="558" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">~30 hrs</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">~$299</text>
+
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Galaxy Watch 7 lasts up to 40 hours with always-on display off; Pixel Watch 3 up to 36 hours in Battery Saver.</text>
+  <text x="28" y="292" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="Bar chart: storage in gigabytes for the iPhone Duo at 256 gigabytes (1,999 dollars), 512 gigabytes (2,199 dollars), 1 terabyte (2,599 dollars), and 2 terabytes (3,199 dollars)">
+  <rect x="8" y="8" width="744" height="344" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#0f172a">Storage — gigabytes</text>
+  <text x="28" y="68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">Storage per model — and what each model costs</text>
+
+  <!-- 256GB: $1,999 -->
+  <text x="28" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">256GB</text>
+  <rect x="250" y="100" width="41" height="26" rx="4" fill="#2563eb"/>
+  <text x="299" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">256 GB</text>
+  <text x="732" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$1,999</text>
+
+  <!-- 512GB: $2,199 -->
+  <text x="28" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">512GB</text>
+  <rect x="250" y="152" width="82" height="26" rx="4" fill="#2563eb"/>
+  <text x="340" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">512 GB</text>
+  <text x="732" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$2,199</text>
+
+  <!-- 1TB: $2,599 -->
+  <text x="28" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">1TB</text>
+  <rect x="250" y="204" width="164" height="26" rx="4" fill="#2563eb"/>
+  <text x="422" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">1 TB</text>
+  <text x="732" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$2,599</text>
+
+  <!-- 2TB: $3,199 -->
+  <text x="28" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0f172a">2TB</text>
+  <rect x="250" y="256" width="328" height="26" rx="4" fill="#f08804"/>
+  <text x="586" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">2 TB</text>
+  <text x="732" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0f172a" text-anchor="end">$3,199</text>
+
+  <text x="28" y="312" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Price rises with storage; all four are the same iPhone Duo.</text>
+  <text x="28" y="332" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64748b">Prices as cited in the guide, November 2026. Original chart by SmartGearPick.</text>
+</svg>
